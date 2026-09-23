@@ -31,5 +31,5 @@ Inverts 15 / Reptiles 10 / Birds 15 / Mammals 20 / Mythical-but-mundane 30. Carr
 ## FIEND — LOCKED 2026-09-23, 77 families / 154 entries (user-approved batch-by-batch; Phase 2 JSON pending)
 Frieren/Mimic→JRPG, WHF, LotR + Lake-lurker (Watcher), JRPG (Malboro=BLOOM, Zombie=CORPSE), Chinese, Norse, Greek (Gorgon), J/C (Watcher), Persian (Edimmu replaces Ghul), Indian, Japanese, Celtic, Slavic (Vampire), NativeAm (Wendigo), Egyptian (Ammit). Same-root merged; coincidence parenthesized.
 
-## DEMON — Fallen 36/36 pitched+approved (V04 lore; gender-age presentations; 0 variants); Goetic #37-108 pending draft+pitches
+## DEMON — Fallen 36/36 LOCKED 2026-09-23 (V04 lore; gender-age presentations; 0 variants); Goetic #37-108 pending draft+pitches
 36 Fallen (4x9 Orders, 12 Month + 24 Hour) + 72 Goetic Bael→Andromalius (#37-108). Lucifer/Satan/Samael separate. #65 Astaroth (Ishtar merged). #16 Sojobo Great Tengu (Dominions, April). Chinese four never lowered. Oni stays Humanoid; Tengu resolved.
