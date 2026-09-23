@@ -15,7 +15,7 @@ F07 Cairn Wraith (kept; LotR wraith merged here, single Wraith family)
 F08 Mutant Spawn (chaos spawn-thread, flesh-warped, unnatural)
 
 ## F03 LotR-thread + Lake-lurker 4
-F09 Lake Lurker (Watcher) [Watcher (a): lake tentacle; cf F29 Watcher (b) empyrean]
+F09 Lake Lurker (Watcher) [Watcher (a): lake tentacle; cf F37 Emissary (Watcher) (b) empyrean — collision format per naming rule (3)]
 F10 Grey Shade (oath-shade-thread, unnatural)
 F11 Pit Horror (deep pit spawn, unnatural)
 F12 Ash Serpent (fire-serpent-thread, NO true fire magic; venom-heat only, flagged)
@@ -55,7 +55,7 @@ F35 Hydra Husk (serpent-mass-thread, unnatural; distinct from Beast hydra-litter
 F36 Marble Statue (animated statue-thread, construct, unnatural)
 
 ## F08 Judeo-Christian-thread 4 (Watcher coincidence)
-F37 Watcher (Emissary) [Watcher (b): empyrean eye; cf F09 Watcher (a) lake tentacle — coincidence parenthesized, both kept]
+F37 Emissary (Watcher) [Watcher (b): empyrean eye; cf F09 Lake Lurker (Watcher) (a) lake tentacle — collision format per naming rule (3): generic head + bracketed proper on both]
 F38 Fallen Husk? Fallen collides Demon Fallen proper names — avoid Fallen word. Use: Ash Seraph Husk? Seraph collides Demon Orders? Demon 36 Fallen across Nine Orders include Seraphim — avoid angelology terms. Use: Pillar Salt (salt-pillar-thread, unnatural)
 F39 Flood Husk (drowned multitude-thread, unnatural)
 F40 Thorn Crown (crown-thorn-thread, unnatural)
