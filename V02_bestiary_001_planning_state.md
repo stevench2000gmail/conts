@@ -64,6 +64,7 @@ Cross-check 2026-09-23 v3 vs all other classes (90 families saved):
 - Humanoid model CONFIRMED: 27 high-count (4-5 each) + 24 low-count (1-2 each), ~145-180 total. Treemen (12) stays low-count.
 - Demon cosmology: 108 unique fallen angels, real in-setting. Reference `tmp/the_hundred_and_eight_bestiary_cosmology_v0.1.md` as study material / lost in-game lore only — not canon import. Open questions §16 stay open.
 - OpenCode request file created: `/mnt/c/Users/steve/opencode/proj4/tmp/contentStudioRequestMonster.md` (Task 1 Demon naming exception still open; Task 2 faction rule verify-only — WORLD_BIBLE:20 + DECISIONS:212 already permit future factions via proposal).
+- FINAL PHASE AGREED 2026-09-23 (user): once all five-class entries are pitched/locked, add a final power-level scaling pass across every entry (reuse ENY_* vs 1-10 might/magic/intelligence/leadership + always_physical/cycle only, no new policies/stats/magic as final; flag exceptions). Scaling happens after Demon pitches, before Phase 2 JSON.
 
 ## Workspace memory (saved 2026-09-23 — persist across chats)
 - Controlling request: `/mnt/c/Users/steve/opencode/proj4/studio/contentstudio/requests/CONTENT_V02_BESTIARY_001.md`
