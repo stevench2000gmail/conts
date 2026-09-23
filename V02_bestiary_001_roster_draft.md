@@ -25,7 +25,7 @@ Low (2 each): treemen (low by design), naga (ex snakefolk), sirens*(F-only, ex h
 * flagged (culture/courts/magic never final; bands only, no settlements/leaders/factions).
 Beast folk-vs-animal notes kept: scorpions, crocs, boars, foxes, jackals, spiders, sphinx-pards, ammit (Beast #80 → hippo-pond brutes).
 
-## BEAST — locked 90 families (15/10/15/20/30), planning, no pitches yet
+## BEAST — LOCKED 2026-09-23, 90 families / 180 entries (#1-180 Beast, user-approved batch-by-batch; Phase 2 JSON pending)
 Inverts 15 / Reptiles 10 / Birds 15 / Mammals 20 / Mythical-but-mundane 30. Carry WOLF/SPIDER/GRIFFIN. Moon bear, cobra, peacock-raptor kept.
 
 ## FIEND — locked 72 families classic type-names (4/4/4/8/8/4/4/4/4/6/6/4/4/4/4)
