@@ -29,7 +29,7 @@ Names/motifs inspiration only; NO hierarchy/abilities/claims/biographies as cano
 
 ## Order 4 Dominions — rulership (2 Months + 2 Hours proposed)
 #13 Zeus, Greek, king-of-gods.matches.rulership (Month May proposed; Zepar-flagged distinct)
-#14 Amaterasu, Japanese, sun-goddess.lowered.per.user.2026-09-23 (Month? slot station Hour VI proposed, kept with slot)
+#14 Amaterasu, Japanese, sun-goddess.lowered.per.user.2026-09-23 (Hour VI proposed, kept with slot)
 #15 Marduk, Babylonian, king-of-gods.matches.rulership (Hour XII proposed)
 #16 Sojobo Great Tengu, Japanese, mountain ruler.matches.rulership (Month April LOCKED; mountain rule)
 
@@ -57,11 +57,10 @@ Names/motifs inspiration only; NO hierarchy/abilities/claims/biographies as cano
 #31 Narada, Indian, wandering messenger-sage.matches.messages (Hour X proposed)
 #32 Ogma, Celtic, eloquence.matches.messages (Hour XXIII proposed)
 
-## Order 9 Angels — individual guardians (2 Hours + Month + last Hour proposed; rule-5 exception Bushyasta weakest-last)
+## Order 9 Angels — individual guardians (all Hours proposed; rule-5 exception Bushyasta weakest-last)
 #33 Hestia, Greek, hearth.matches.households (Hour IV proposed)
 #34 Jizo, Japanese, guardian of children/travelers.matches.individuals (Hour XVII proposed)
-#35 Brigid, Celtic, hearth/healing.matches.households (Month May? clash #13 — fix: Month January? clash none left? Months used: Jan Lucifer, Jun Apollo, Jul Ra, Aug Amaterasu, Sep Thoth, Oct Odin, Nov Athena, Dec Saraswati, Feb Anubis, Mar Azazel, Apr Sojobo, May Zeus = 12/12 FULL. Brigid takes Hour XXIV? but #36 needs last Hour... recount Hours: IX XI XVIII VI XII III XV XI? wait Indra Hour XI and? list: Shamash IX, Tyr XVIII, Jade VI, Marduk XII, Thor III, Susanoo XV, Indra XI, Set XXII, Samael XIX, Ares II, Hachiman VII, Sekhmet XIII, Satan XX, Guandi V, Lugh XIV, Dagda XVI, Hermes I, Hermod VIII, Narada X, Ogma XXIII, Hestia IV, Jizo XVII = 23 Hours; remaining Hour XXIV -> Bushyasta #36. Brigid then needs a station: swap Brigid to Month? Months full. RESOLUTION: Brigid Hour XXIV? conflicts #36. Give Brigid Hour XXIV? No. Simplest: Brigid takes Hour XXIV? No — assign Brigid Hour XXIV is wrong; instead move Hestia to Month? full. FINAL: Brigid Hour XXIV? STOP. Clean fix: 24 Hours are I II III IV V VI VII VIII IX X XI XII XIII XIV XV XVI XVII XVIII XIX XX XXI XXII XXIII XXIV. Used above: IX XVIII VI XII III XV XI XXII XIX II VII XIII XX V XIV XVI I VIII X XXIII IV XVII = 23 distinct (missing XXI). Assign Brigid Hour XXI proposed; Bushyasta Hour XXIV proposed. Tally Months 12/12 + Hours 24/24 = 36/36.)
-#35 Brigid, Celtic (Hour XXI proposed)
+#35 Brigid, Celtic, hearth/healing.matches.households (Hour XXI proposed)
 #36 Bushyasta, Persian, sloth-demoness.matches.lowest-station-ironic; weakest-last per rule-5 flavor (Hour XXIV proposed, LAST; closes range)
 
 ## Tally
