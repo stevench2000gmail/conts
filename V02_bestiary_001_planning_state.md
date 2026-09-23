@@ -25,8 +25,8 @@ Status: PHASE 1 PITCHING — preview concluded 2026-09-23 per user. Pitching Hum
 ## Human — LOCKED 2026-09-23 at 65 entries (13x5, vs 60 target; user locked over-target)
 All pitched Phase 1 chat, no JSON. City-free prose rule kept. Reuses: THUG in thugs, BLADE in hired swords. Ninja exception: Shinobi M-only / Kunoichi F-only, Genin young / Chunin older, Teppo flagged firearm.
 
-## Humanoid Phase 1 pitching (in progress 2026-09-23, city-free, 8+ word sentences mandatory)
-Pitched through family 36 Sidhe (IDs ENY_* 1-147+). Classic renames locked: Naga, Mermaids, Sphinxes, Sirens, Aegipanes/Satyrs split. Goblins no-females; Mermaids/Sphinxes/Sirens/Harpies female-led with reasons; Shinobi/Kunoichi gender roles logged under Human.
+## Humanoid Phase 1 pitching — COMPLETE 2026-09-23 (families 1-46, ~170 entries, city-free, 8+ word sentences)
+Classic renames locked: Naga, Mermaids, Sphinxes, Sirens, Aegipanes/Satyrs split. Full prose in chat history; roster draft saved for OpenCode at `../proj4/tmp/V02_bestiary_001_roster_draft.md`.
 Core: gnomes, halflings, dwarves (flagged), goblins, hobgoblins, orcs, ogres, trolls, elves / dark elves / wood elves (flagged), treemen (generic for ents), ratfolk (generic for skaven), snakefolk (generic for naga), fish-maidens female-only, bird-maidens female-only, half-bird-half-fish maidens female-only, oni-horned brutes, kappa river imps, monkey-folk, fox-maidens female-only, rakshasa / yaksha / garuda / naga Indian-aligned set, kobolds (small scavengers, separate from lizardmen), gnolls (hyena-men), goat-horned wildmen, boar-headed brutes, lizard marsh stalkers (separate), faun/satyr raiders, harpy harriers, hag-like outcasts, leshy.
 Added this turn: vodyanoy, rusalka female-only, jotnar, duergar as dark-dwarf alias (flagged), fomorian, selkie, sidhe (flagged elf-adjacent), minotaur, centaur, cyclops, lamia female-leaning, div, scorpion-folk, jackal-headed dune stalkers, falcon-headed cliff watchers, croc-folk river brutes, thunderbird cliff folk.
 Moved OUT: vampires -> Fiend; gorgon -> Fiend; wendigo -> Fiend; tengu -> Demon candidate; half-breeds dropped.
