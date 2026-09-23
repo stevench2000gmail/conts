@@ -5,6 +5,7 @@ Order duties used: Seraphim burning praise/light; Cherubim wisdom; Thrones judgm
 Saved locks honored: Lucifer/Satan/Samael three separate; #16 Sojobo Great Tengu (Dominions, April, mountain rule); Egyptian Ra/Thoth/Set/Sekhmet/Anubis all in; Bushyasta #36 last; Ishtar-line OUT (merged Goetic #65 Astaroth); Chinese Hundun/Gonggong/Chiyou/Xingtian excluded; Tengu slot resolved; Oni stays Humanoid.
 Goetic-72 collision audit: 0/36 overlaps. Near-miss flags: Zeus vs Goetic Zepar (different root/entity, kept, flagged); Hermod vs Hermes (different entities, both kept, flagged); Belphegor NOT used (too close to Goetic Beleth); Baal/Amun/Asmodeus/Belial/Astaroth-line excluded. Yama/Yanluo same-entity pair excluded entirely (Anubis covers death-judgment). Garuda excluded (same entity as Humanoid Garuda). Inari excluded (fox-association; fox-maidens Humanoid + foxes Beast stay clean).
 Pantheon spread: J/C 4, Greek/Roman 6, Egyptian 5, Japanese 5, Norse 4, Mesopotamian 3, Chinese 2, Indian 3, Celtic 4 = 36/36.
+CULTURAL-HEIGHT OVERRIDE 2026-09-23 (user): Chinese elevated (Jade Emperor #4 Seraphim, Guandi #23 Powers), Japanese lowered (Amaterasu #14 Dominions, Hachiman #26 Principalities). Sojobo #16 untouched (locked Dominions April). Jizo #34 and Susanoo #18 unchanged (already low/mid).
 Stations: 12 Month + 24 Hour structure kept. Only #16 April LOCKED; all others PROPOSED (upper orders + rulers hold Months, rule-5-flavored; correct freely).
 Names/motifs inspiration only; NO hierarchy/abilities/claims/biographies as canon. Nature/hierarchy/origins/magic stay proposals, never final.
 
@@ -12,7 +13,7 @@ Names/motifs inspiration only; NO hierarchy/abilities/claims/biographies as cano
 #1 Lucifer, J/C, light-bearer.matches.burning (Month Jan proposed)
 #2 Apollo, Greek, sun/music/praise.matches.burning (Month Jun proposed)
 #3 Ra, Egyptian, sun.matches.burning; non-divine inspiration-only (Month Jul proposed)
-#4 Amaterasu, Japanese, sun.matches.burning (Month Aug proposed)
+#4 Jade Emperor, Chinese, supreme celestial ruler.elevated.per.user.2026-09-23 (cultural-influence override; supreme honorship fits Seraphim praise-proximity) (Month Aug proposed)
 
 ## Order 2 Cherubim — wisdom (all Months proposed)
 #5 Thoth, Egyptian, writing/wisdom.matches.wisdom (Month Sep proposed)
@@ -28,7 +29,7 @@ Names/motifs inspiration only; NO hierarchy/abilities/claims/biographies as cano
 
 ## Order 4 Dominions — rulership (2 Months + 2 Hours proposed)
 #13 Zeus, Greek, king-of-gods.matches.rulership (Month May proposed; Zepar-flagged distinct)
-#14 Jade Emperor, Chinese, supreme ruler.matches.rulership; title-name under Demon individual-name permission (Hour VI proposed)
+#14 Amaterasu, Japanese, sun-goddess.lowered.per.user.2026-09-23 (Month? slot station Hour VI proposed, kept with slot)
 #15 Marduk, Babylonian, king-of-gods.matches.rulership (Hour XII proposed)
 #16 Sojobo Great Tengu, Japanese, mountain ruler.matches.rulership (Month April LOCKED; mountain rule)
 
@@ -41,12 +42,12 @@ Names/motifs inspiration only; NO hierarchy/abilities/claims/biographies as cano
 ## Order 6 Powers — warfare/protection (all Hours proposed)
 #21 Samael, J/C, destroyer-angel.matches.warfare (Hour XIX proposed)
 #22 Ares, Greek, war.matches.warfare (Hour II proposed)
-#23 Hachiman, Japanese, war.matches.warfare (Hour VII proposed)
+#23 Guandi, Chinese, god-of-war/loyalty.matches.warfare.elevated.per.user.2026-09-23 (Hour VII proposed, kept with slot)
 #24 Sekhmet, Egyptian, war/plague.matches.warfare (Hour XIII proposed)
 
 ## Order 7 Principalities — nations/peoples (all Hours proposed)
 #25 Satan, J/C, prince-of-this-world.matches.rulership-of-nations (Hour XX proposed)
-#26 Guandi, Chinese, patron-protector.matches.peoples (Hour V proposed)
+#26 Hachiman, Japanese, patron-of-warriors.matches.peoples.lowered.per.user.2026-09-23 (Hour V proposed, kept with slot)
 #27 Lugh, Celtic, king/patron.matches.peoples (Hour XIV proposed)
 #28 Dagda, Celtic, father-chief.matches.peoples (Hour XVI proposed)
 
