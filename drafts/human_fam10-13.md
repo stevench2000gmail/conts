@@ -51,29 +51,29 @@ Tourney champions live for prize bouts in fair towns and fame. Crowds chant for 
 Combat: 5/1/3/3, always_physical.
 Appearance: bright-harness rider, ribboned lance, polished helm. States: circling salute / tilting charge / unhorsed roll stagger / seated accepting loss. Variants: 2M young gallant/vain veteran; 2F bold rider/older championess.
 
-## 56. ENY_OATHSWORD — Oathsword (fighters only, holy-magic never final)
+## 56. ENY_OATHSWORD — Oathsword (fighters + oath-blessings, holy flagged proposal)
 Oathswords swear personal vows to protect travelers and sick people. They carry plain swords and ask no payment from temples. Folk offer bread for blessings these fighters cannot truly give. They walk roads where ordinary guards are few or absent. In combat, they are steady sword-and-shield fighters protecting the fallen. They never claim spells, relying only upon steadfast arms. Their oaths forbid flight when helpless people need protection. Broken oaths exile them from the trust of ordinary folk.
-Combat: 5/1/4/4, always_physical.
+Combat: 5/3/4/4, cycle (oath-blessings flagged holy proposal per magic doctrine applicable-user; never final).
 Appearance: plain-cloaked swearer, sword-shield, votive cord at wrist. States: vow-stance guard / shield-cut / kneeling prayer-brace stagger / prone over charge. Variants: 2M young swearer/grey keeper; 2F sworn sister/older matron.
 
-## 57. ENY_CHAPEL_GUARD — Chapel Guard (fighters only)
+## 57. ENY_CHAPEL_GUARD — Chapel Guard (fighters + warding prayers, holy flagged proposal)
 Chapel guards watch small shrines and burial grounds without claiming priesthood. They sweep steps and turn away thieves seeking easy offerings. Mourners trust their quiet presence during difficult ceremonies and visits. In combat, they fight with mace and lantern-shield at gates. They hold thresholds rather than follow enemies onto battlefields. Their duty ends at the walls surrounding their charge. Their keys rattle whenever they make a careful nightly round. Thieves learn that quiet shrines may still have determined defenders.
-Combat: 4/1/3/3, always_physical.
+Combat: 4/3/3/3, cycle (warding prayers flagged holy proposal per magic doctrine; never final).
 Appearance: grey-robed guard, mace, lantern-shield, key-ring. States: gate-stand / mace-swing / bell-drop stagger / kneeling at threshold. Variants: 2M young keeper/older warden; 2F stern keeper/older widow.
 
-## 58. ENY_MENDICANT_PROTECTOR — Mendicant Protector (fighters only)
+## 58. ENY_MENDICANT_PROTECTOR — Mendicant Protector (fighters + mendicant blessings, holy flagged proposal)
 Mendicant protectors walk with begging healers, carrying staves against wolves and thieves. They own nothing except bowls, patched robes, and necessary walking tools. Villagers feed the pair when their charity can spare food. In combat, they whirl staves to shield unarmed companions without killing. They retreat alongside their charges when stronger enemies press forward. Their vows forbid loot taken from defeated foes or travelers. Their bare feet mark long journeys across rough roads. They depend upon mobility and goodwill instead of expensive armor.
-Combat: 3/1/4/3, always_physical.
+Combat: 3/2/4/3, cycle (mendicant blessings flagged holy proposal per magic doctrine; never final).
 Appearance: barefoot staff-fighter, patched robe, bowl at back. States: staff-circle guard / sweeping trip / stumbled stagger / seated shielding charge. Variants: 2M young walker/older brother; 2F young sister/older mother.
 
-## 59. ENY_RELIC_WARDEN — Relic Warden (fighters only)
+## 59. ENY_RELIC_WARDEN — Relic Warden (fighters + relic-ward prayers, holy flagged proposal)
 Relic wardens escort carts carrying old bones and banners between hamlets. They claim no power within relics, only a duty of care. Crowds follow the cart when it travels for seasonal festivals. In combat, they defend the wagon with halberds without advancing. Their loss scatters pilgrims who depended upon their visible protection. Their carts are plain wood, built for travel rather than display. Thieves repeatedly test whether the wardens can defend valuable cargo. Wardens keep close watch on every chest and wheel.
-Combat: 4/1/3/4, always_physical.
+Combat: 4/4/3/4, cycle (relic-ward prayers flagged holy proposal per magic doctrine; never final).
 Appearance: cart-guard, halberd, relic-chest key, festival ribbons. States: cart-side stance / halberd-sweep / chest-drop stagger / seated over chest. Variants: 2M young escort/grey warden; 2F hard escort/older keeper.
 
-## 60. ENY_PENITENT_BLADE — Penitent Blade (fighters only)
+## 60. ENY_PENITENT_BLADE — Penitent Blade (fighters + penitent zeal, holy flagged proposal)
 Penitent blades are former criminals working through guilt by serving former victims. They wear ropes at their waists as visible signs of remorse. Folk distrust them first, then praise those who prove steadfast. In combat, they fight fiercely with flails and seek wounds as payment. They spare surrendering foes because mercy demonstrates changed intentions. Their past deeds continue to drive every difficult choice. Formal pardons release most from their chosen lifelong service. Some remain in service because forgiveness never quiets their guilt.
-Combat: 5/1/2/2, always_physical.
+Combat: 5/3/2/2, cycle (penitent zeal flagged holy proposal per magic doctrine; never final).
 Appearance: rope-bound fighter, flail, scarred face, plain shirt. States: bowed advance / flail-scourge swing / self-struck stagger / kneeling with grounded flail. Variants: 2M young penitent/scarred elder; 2F hard penitent/older seeker.
 
 ## 61. ENY_PALACE_SENTRY — Palace Sentry (generic-only, no courts named)

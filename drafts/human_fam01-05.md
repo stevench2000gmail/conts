@@ -88,7 +88,7 @@ Appearance: weathered officer, dented cuirass, spear, faded sash. States: ordere
 
 ## 18. ENY_HEDGE_PREACHER — Hedge Preacher
 Hedge preachers gather crowds in fields and barns, blaming tolls and hunger on corrupt stewards. They carry no weapon but their tongue, yet their words arm others. Listeners bring food and hide them from patrols. Authorities arrest them for sedition, making martyrs. In combat they fight weakly with staff, shielded by believers. Their strength is leadership, holding mobs together under blows. Capture them and crowds thin. Their sermons promise the old empire’s justice without naming heirs.
-Combat: 2/1/5/5, always_physical.
+Combat: 2/2/5/5, cycle (hedge-sermon blessings flagged folk proposal per magic doctrine; never final).
 Appearance: travel-worn speaker, staff and satchel of tracts, hoarse voice. States: raised-arms address / staff-swing / bowed stagger / bound kneeling. Variants: 2M young speaker/bearded elder; 2F stern widow/young prophetess.
 
 ## 19. ENY_TOLL_BREAKER — Toll Breaker
