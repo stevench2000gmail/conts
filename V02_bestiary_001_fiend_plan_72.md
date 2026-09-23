@@ -29,6 +29,7 @@ F17 Iron Knight (possessed armor, unnatural)
 F18 Lantern Ghost (wisp-thread, unnatural)
 F19 Cursed Doll (puppet-thread, unnatural)
 F20 Sand Worm (giant worm-thread; distinct from Beast wyrms/worms animal by unnatural size/hunger, flagged)
+F73 Tonberry (proper-name exception, user-approved 2026-09-23: keep FF proper name Tonberry unchanged, 2 entries Tonberry + Tonberry Elder; inspiration-only, never canon import)
 
 ## F05 Chinese-thread 8
 F21 Jiangshi (hopping corpse, classic)
@@ -106,5 +107,5 @@ F71 Jackal Husk (anubis-shape husk-thread, non-divine; distinct from Humanoid ja
 F72 Scarab Swarm (grave beetle-thread, unnatural; distinct from Beast carrion beetles animal)
 
 ## Counts
-72 families; entries TBD (likely 1-2 each lean like Beast, ~72-144). Carries placed: CORPSE F15 / BLOOM F14. Moved-ins placed: Gorgon F33 / Vampire F61 / Wendigo F65.
+72+1 families (73 with user-approved Tonberry proper-name exception); entries TBD (likely 1-2 each lean like Beast, ~74-146 with Tonberry 2). Carries placed: CORPSE F15 / BLOOM F14. Moved-ins placed: Gorgon F33 / Vampire F61 / Wendigo F65. FF proper names kept: Malboro Maw F14 (carry), Tonberry F73 (exception); all other FF-thread names generic (Mimic/Zombie/Slime/Knight/Wisp/Doll/Worm). LotR proper names avoided entirely (no Balrog/Ringwraith/Orc/Troll/Warg/Shelob; only generic Lurker/Shade/Horror/Serpent/Wight/Wraith used, single merged Wight + single merged Wraith).
 (End of draft v1 — awaiting user trim/approval before Phase 1 pitches.)
