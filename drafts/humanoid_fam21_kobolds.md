@@ -17,11 +17,11 @@ Combat: 3/1/3/2 (handler+dogs), always_physical.
 Appearance: cur-master with leash-tangles and short spear, curs snapping around knees, standing small among dogs. States: pack-release stance / spear-jab behind dogs / dog-loss wail stagger / leash-offering surrender. Variants: 2M young caller / scarred master; 2F hard caller / older breeder.
 
 ## 89. ENY_KOBOLD_TINKER — Kobold Tinker
-Scrap-tinkers mend discarded broken tools with twisted wire and muttered prayers. Their hopeful bands haunt busy smithy yards after closing hours. They love salvaged hinges above silver coins. In battle they swing light hammers weakly while attempting repairs mid-fight absurdly. Their rattling carts hold unsorted junk piles. Cold rain rusts their entire stock quickly.
-Combat: 2/1/4/2, always_physical. (Note: 6-sentence sketch in chat; locked content identical.)
+Scrap-tinkers mend discarded broken tools with twisted wire and muttered prayers. Their hopeful bands haunt busy smithy yards long after closing hours. They love salvaged hinges above silver coins. In battle they swing light hammers weakly while attempting absurd repairs mid-fight. Their rattling carts hold unsorted junk piles everywhere. Cold rain rusts their entire stock overnight. A working hinge delights them beyond food. Smiths tolerate them for sweeping floors.
+Combat: 2/1/4/2, always_physical.
 Appearance: hinge-laden mender with hammer and wire-spools, apron trailing ground, eyes hopeful. States: cart-lean offer / hammer-tap swing / cart-topple stagger / junk-offering surrender. Variants: 2M young fixer / grey saver; 2F quick mender / older keeper.
 
 ## 90. ENY_KOBOLD_CHIEF — Kobold Chief (band-level only)
-Yapping chiefs hold crowded warrens through sheer loudness of voice. Their constant boasts rally timid packs to risky raids. They claim polished old boots as crowns. In battle they screech orders while waving bent swords from atop trash thrones, dueling rival yappers personally. Their sudden fall scatters packs into hiding instantly. Rival chiefs absorb leaderless survivors quickly.
-Combat: 3/1/3/4, always_physical. (Note: 7-sentence sketch in chat; locked content identical.)
+Yapping chiefs hold crowded warrens through sheer loudness of voice. Their constant boasts rally timid packs toward risky raids. They claim polished old boots as dented crowns. In battle they screech orders while waving bent swords from atop trash thrones, dueling rival yappers personally. Their sudden fall scatters packs into hiding instantly. Rival chiefs absorb leaderless survivors quickly. A consistently full midden keeps uneasy peace. Hungry challengers test them nightly without mercy.
+Combat: 3/1/3/4, always_physical.
 Appearance: boot-crowned small chief with bent sword and trash throne, voice shrill, chest puffed. States: throne-stand screech / sword-wave duel / throne-topple stagger / boot-offering surrender. Variants: 2M young yapper / scarred holder; 2F hard dam-chief / older matron.

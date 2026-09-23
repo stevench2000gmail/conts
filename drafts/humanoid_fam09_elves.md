@@ -11,7 +11,7 @@ Cave-mouth exiles dwell in quarry shadows where sunlight thins and old workings 
 Combat: 4/1/4/2, always_physical.
 Appearance: ash-grey slender fighter with short spear and hooded dark cloak, pale eyes wide against lamplight, smaller shadow beside human bulk. Stone-dust ingrained, fingers long. States: darkness-crouch vigil / spear-thrust eruption / sun-blind shielding stagger / groping seated surrender. Variants: 2M young creeper / blind elder; 2F hard mother / older listener.
 
-## 43. ENY_ELF_WOODWARD — Woodward Elf
+## 43. ENY_ELF_WOOD — Wood Elf
 Antler-crowned wardens patrol ancient groves they tend without owning, marking boar runs. Their bands prune blighted limbs and burn diseased undergrowth each spring. Forest villagers leave salt at boundary stones for safe passage. They remember boundary oaths sworn to bailiffs long dead. They tolerate charcoal-burners while hating clear-cutters with cold fury. In battle they fight with long knives and snares among roots, vanishing between trunks. They never hold ground, preferring to bleed pursuers slowly. Their antler helms are shed finds, never forged crowns.
 Combat: 4/1/5/3, always_physical.
 Appearance: tall warden wearing shed-antler helm over green-brown bark-cloth, long knife at hip, snare-wire coils across chest. Limbs scarred by briars. States: root-stance watch / snare-spring knife rush / entangled stagger / bound kneeling among roots. Variants: 2M young pruner / scarred warden; 2F keen tender / older grove-keeper.

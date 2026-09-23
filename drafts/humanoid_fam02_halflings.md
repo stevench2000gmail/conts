@@ -12,8 +12,8 @@ Combat: 2/1/4/2, always_physical.
 Appearance: barrow-pushing small figure with ladle-club and tune-pipe at lip, patched coat dragging near ground, flour on sleeves. Waist-high to a human. States: barrow-lean offer / ladle-swing panic / barrow-drop stumble / seated on wares with hands up. Variants: 2M young piper / older potter; 2F singing lass / older dame.
 
 ## 8. ENY_HALFLING_SLINGER — Halfling Slinger
-Orchard slingers guard fruit bands’ camps from stone piles built like small forts. Their hail can strip a crow flock mid-flight, a skill taught to children with green apples. Villagers hire them for fair-days. They love wagers and hate discipline. In battle they hail stones then scatter before shields close. Their arms tire fast. Their river-smooth stones are gathered yearly. Wind foils them utterly.
-Combat: 3/1/3/2, always_physical. (Note: 8th sketch sentence folded — full 8-sentence version in chat; locked content identical.)
+Orchard slingers guard bustling fruit bands’ camps from piled stone forts built small. Their whistling hail can strip an entire crow flock mid-flight, a skill taught to children with green apples. Neighboring villagers hire them eagerly for fair-days and harvests. They love risky wagers and hate strict discipline. In battle they hail stones fiercely then scatter before closing shields, refusing melee. Their thin arms tire quickly under sustained throwing. Their river-smooth stones are gathered yearly from gravel bars. Strong wind foils them utterly every time.
+Combat: 3/1/3/2, always_physical.
 Appearance: straw-hatted small guard with sling and bulging stone-bag, orchard-dust on cheeks, perched on wall-tops at a human’s waist. Quick grin, quick feet. States: wall-aim poise / stone-hail whirl / rushed tumble / empty-bag kneel. Variants: 2M young guard / older captain; 2F keen lass / older matron.
 
 ## 9. ENY_HALFLING_DOG_RIDER — Dog Rider

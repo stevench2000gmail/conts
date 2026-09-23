@@ -2,8 +2,8 @@
 Rule: city-free, every sentence 8+ words. Taxonomy Humanoid. Falcon distinct from Beast raptors and Garuda; croc-folk distinct from Beast crocodilians; thunderbird distinct from Demon Sojobo and Beast roc.
 
 ## 165. ENY_FALCON_WATCHER — Falcon Watcher
-Sharp-eyed falcon watchers perch motionless upon highland crag edges overlooking trade passes. Their silent bands record every caravan’s banners meticulously. They trade warnings for salt. They despise ground-dwellers’ noise. In battle they stoop from heights with talon-spears, never fighting grounded willingly. They ransom maps for feathers. Their cliff ledges hold signal mirrors.
-Combat: 5/1/5/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Sharp-eyed falcon watchers perch motionless along highland crag edges. Their silent bands record every caravan banner with care. They trade timely warnings for precious measures of salt. Ground-dwellers' noise irritates their disciplined cliffside sentries greatly. Talon-spears strike during swift stoops from dizzying heights. They refuse grounded fighting whenever their powerful wings remain sound. Maps earn ransom when travelers offer worthy feathers. Their narrow cliff ledges hold polished signal mirrors.
+Combat: 5/1/5/2, always_physical.
 Appearance: Sharp-eyed feather-crowned watcher carries a talon-spear and signal mirror, beak hooked, wings folded tightly. Gaze piercing. States: crag-edge motionless vigil / stooping spear-diving assault / grounded wing-torn stagger / map-offering bowing surrender. Variants: 2M young eyas / grey watcher; 2F keen sister / older keeper.
 
 ## 166. ENY_FALCON_SKYLORD — Falcon Skylord (band-level only)
@@ -12,8 +12,8 @@ Combat: 6/1/4/4, always_physical.
 Appearance: Broad-winged imposing lord carries mirror-shields and a command baton, wingspan shadowing humans, presence regal and fierce. Crest erect. States: dive-commanding soaring patrol / mirror-flashing multi-diving assault / wing-broken plummeting stagger / aerie-yielding honorable surrender. Variants: 2M young lord / scarred skylord; 2F hard lady / older keeper.
 
 ## 167. ENY_CROC_BRUTE — Croc Brute
-Armored river brutes float motionless like fallen logs in slow delta channels. Their patient bands ambush drinking herds at dusk. They learned patience from actual crocodiles. Fisherfolk pay fish tolls nervously. They collect boat nails. In battle they erupt with crushing jaws and tail sweeps, dragging victims into deep water. They abandon hunts against fire.
-Combat: 7/1/2/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Armored river brutes float motionless like logs in delta channels. Their patient bands ambush drinking herds during each dusk. They learned their remarkable patience from actual crocodiles. Fisherfolk pay nervous fish tolls before crossing their waters. They collect boat nails from every captured vessel. Crushing jaws erupt suddenly beside powerful sweeping tail blows. Victims are dragged into deep water beneath dark currents. Open fire makes them abandon hunts and withdraw quickly.
+Combat: 7/1/2/2, always_physical.
 Appearance: Armored log-like brute carries crushing jaws and a tail club, scutes mossy, eyes slit and patient. Bulk immense. States: log-still floating ambush / erupting jaw-tail dragging assault / fire-driven beaching stagger / toll-accepting rumbling surrender. Variants: 2M young floater / scarred brute; 2F nesting dam / older keeper.
 
 ## 168. ENY_CROC_DEATHROLL — Deathroll Elder (band-level only)

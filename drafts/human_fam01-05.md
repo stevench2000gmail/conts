@@ -62,8 +62,8 @@ Combat: 4/1/2/2, always_physical.
 Appearance: hulking guard, quarterstaff, toll-box at hip, wet boots. States: arms-crossed block / staff-shove / staggered spin / toppled into mud. Variants: 2M young heavy/bearded keeper; 2F broad warden/older collector.
 
 ## 13. ENY_ALLEY_MUGGER — Alley Mugger
-Alley muggers work poor quarters of trade towns where lanes narrow past shuttered shops. Quicker than toll brutes, crueler than cutpurses, they strike from doorways. Night walkers fear their paired rush, one to hold and one to strip. They know watch-bells and vanish before boots arrive. In combat they swarm lone victims with knives, scattering from real guards. They target drunks and strangers, sparing locals who might name them. Their cuts are shallow but many.
-Combat: 3/1/3/1, always_physical. (Note: 7-sentence sketch in chat; locked content identical.)
+Alley muggers work poor quarters of trade towns where lanes narrow past shuttered shops. Quicker than toll brutes and crueler than cutpurses, they strike suddenly from doorways. Night walkers fear their paired rush, with one holding victims while another strips valuables. They know watch-bells well and vanish before pursuing boots arrive. In combat, they swarm lone victims with knives, scattering from organized guards. They target drunks and strangers, sparing locals who might identify them later. Their cuts are shallow but numerous, leaving victims frightened and bleeding. Shuttered shops and narrow lanes give these attackers reliable cover.
+Combat: 3/1/3/1, always_physical.
 Appearance: lean lurker, twin knives, dark wraps, quick eyes. States: wall-pressed wait / paired slash / knocked sprawl / pinned seated. Variants: 2M wiry youth/scarred holder; 2F swift girl/older stripper.
 
 ## 14. ENY_CARAVAN_RAIDER — Caravan Raider
@@ -72,8 +72,8 @@ Combat: 4/1/3/3, always_physical.
 Appearance: mounted raider, bow and saber, dust-cloak, stolen harness. States: mounted circle / diving saber-cut / unhorsed stagger / grounded with raised hands. Variants: 2M young rider/bearded chief; 2F hard rider/older wrangler.
 
 ## 15. ENY_DOOR_BOUNCER — Door Bouncer
-Door bouncers guard gambling cellars and fences’ shops, hired fists at every illicit door. Chosen for size, they end trouble with throws rather than blades. Patrons respect their arms more than any law inside. They answer to pit bosses and gang enforcers. In combat they grapple and hurl, dangerous unarmed, slow with weapons. They hold doorways where footing is tight. They rarely chase beyond the step.
-Combat: 5/1/2/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Door bouncers guard gambling cellars and fences’ shops as hired fists at illicit doors. Chosen for size, they end trouble with throws rather than blades. Patrons respect their arms more than any law operating inside. They answer directly to pit bosses and gang enforcers. In combat, they grapple and hurl foes, remaining dangerous while unarmed. Weapons make them slower, though they can still block entrances. They hold doorways where tight footing limits an intruder's movement. They rarely chase trouble farther than the building's outer step.
+Combat: 5/1/2/2, always_physical.
 Appearance: massive doorman, bare arms, grappling belt, bruised knuckles. States: doorframe block / grapple-toss / shaken head / seated against door. Variants: 2M young ox/older scarred; 2F tall wrestler/matron guard.
 
 ## 16. ENY_BREAD_RIOTER — Bread Rioter
@@ -97,31 +97,31 @@ Combat: 4/1/3/3, always_physical.
 Appearance: burly carter, sledgehammer, toll-token necklace of victories. States: gate-facing stance / beam-smash / shoulder-wrench stagger / sprawled on broken gate. Variants: 2M young driver/broad elder; 2F hard teamster/older smith.
 
 ## 20. ENY_STUDENT_AGITATOR — Student Agitator
-Student agitators are clerk-school youths who print broadsides against stewards and lead marches. Quick with words and pamphlets, slow with blades. Townsfolk smile at their fire until stones fly. Masters expel them, jails fill with them. In combat weakest rebels, waving knives and torches with more noise than skill. They rally others rather than win fights. Their ink-stained hands betray them after. Disperse the press and the march fades.
-Combat: 2/1/4/3, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Student agitators are clerk-school youths printing broadsides against stewards and leading marches. They are quick with words and pamphlets but slow with blades. Townsfolk admire their fire until angry crowds begin throwing stones. Masters expel them, while jails steadily fill with captured students. In combat, they are weak rebels waving knives and torches noisily. They rally others rather than personally winning difficult fights. Their ink-stained hands betray their work after every disrupted march. Dispersing the printing press causes the surrounding march to fade.
+Combat: 2/1/4/3, always_physical.
 Appearance: ink-fingered youth, satchel of sheets, short knife, school cloak. States: pamphlet-wave / knife-flourish / tripped sprawl / seated with torn sheets. Variants: 2M eager boy/spectacled leader; 2F bold girl/older printer.
 
 ## 21. ENY_FREE_SPEAR — Free Spear
-Free spears sell their shields season by season to whoever feeds, guarding caravans and work gangs. They are landless farm sons who learned drill from retired soldiers. Employers value their steady line over courage. Villagers hire them for harvest guards. In combat solid line infantry with spear and shield, neither fierce nor brittle. They hold while paid and march off when coin ends. They rarely hate their foes. Their contracts are sealed with hand-clasps, not oaths.
-Combat: 4/1/3/3, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Free spears sell their shields seasonally to employers feeding caravans and work gangs. They are landless farm children who learned drill from retired soldiers. Employers value their steady line more than exceptional personal courage. Villagers also hire them as reliable guards during harvests. In combat, they are solid spear-and-shield infantry, neither fierce nor brittle. They hold their ground while paid and leave when coin ends. They rarely hate their foes or pursue personal vendettas. Their contracts are sealed with handclasps instead of binding oaths.
+Combat: 4/1/3/3, always_physical.
 Appearance: plain pikeman, spear and patched shield, marching boots. States: shield-wall stance / spear-poke / shield-bash stagger / grounded shield seated. Variants: 2M young recruit/scarred file-leader; 2F hard guardswoman/older camp guard.
 
 ## 22. ENY_COIN_BOW — Coin Bow
-Coin bows are hired archers from forest-edge hamlets who track game as well as men. They guard herds and ambush rivals’ convoys for pay. Their arrows feed employers before battles start. Folk hire them against wolves as gladly as against thieves. In combat they loose from cover then fall back with knives, avoiding melee. They quit lost causes early. Their bowstrings are their livelihood, oiled nightly.
-Combat: 3/1/4/2, always_physical (bows as physical). (Note: condensed sketch in chat; locked content identical.)
+Coin bows are hired archers from forest-edge hamlets who track game and people. They guard herds and ambush rival convoys in exchange for pay. Their arrows feed employers before any larger battle begins. Folk hire them against wolves as readily as against thieves. In combat, they shoot from cover before withdrawing with knives. They avoid melee because their survival depends upon range. They quit lost causes early rather than waste valuable arrows. Their bowstrings are their livelihood, carefully oiled every night.
+Combat: 3/1/4/2, always_physical (bows as physical).
 Appearance: lean archer, short bow, quiver, green wraps. States: drawn-aim / volley-loose / knife-draw stagger / kneeling with empty quiver. Variants: 2M young hunter/grey marksman; 2F swift lass/older tracker.
 
 ## 23. ENY_CAMPFOLLOWER_BLADE — Camp Follower Blade
-Camp blades are hangers-on turned fighters who cook, mend, and rob battlefields between hires. They know every army’s leavings. Soldiers mock but use them for dirty work. In combat scrappy with cleaver and cudgel, brave only in packs. They loot first and fight second. Their carts follow every column. Peace starves them into thievery.
-Combat: 3/1/2/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Camp blades are hangers-on turned fighters who cook, mend, and rob battlefields between hires. They know the leavings left behind by every passing army. Soldiers mock them but still use them for dirty work. In combat, they fight scrappily with cleavers and cudgels in packs. They loot first and fight only when loot requires it. Their carts follow every column searching for food and salvage. Peace leaves them hungry and frequently drives them into thievery. Their layered rags conceal tools useful for cooking, mending, and theft.
+Combat: 3/1/2/2, always_physical.
 Appearance: grease-stained follower, cleaver, pack-cart, layered rags. States: cart-lean / cleaver-chop / load-drop stagger / sprawled on packs. Variants: 2M young cook/scarred scavenger; 2F hard cook/older sutler.
 
 ## 24. ENY_SIEGE_HAND — Siege Hand
-Siege hands are laborers skilled with ram, ladder, and mattock, hired for assaults on walled holds. Broad backs from quarry and mine work. Garrison towns dread their arrival more than knights. In combat slow but crushing with maul and shield, deadly at gates, clumsy in open. They dig and hammer under fire. Their pay runs higher for breach work. Without walls to break they hire as guards.
-Combat: 5/1/2/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Siege hands are laborers skilled with rams, ladders, and mattocks during walled assaults. Quarry and mine work has given them notably broad backs. Garrison towns dread their arrival even more than mounted knights. In combat, they strike slowly but crush foes with mauls and shields. They are deadly at gates but clumsy across open ground. They dig and hammer under fire when commanders require breaches. Their pay runs higher whenever a dangerous breach assignment awaits. Without walls to break, they hire themselves out as guards.
+Combat: 5/1/2/2, always_physical.
 Appearance: massive laborer, maul, timber shield, rope harness. States: braced lift / maul-crush / reeling heave / seated on rubble. Variants: 2M young quarryman/bald veteran; 2F broad mason/older sapper.
 
 ## 25. ENY_WAR_DOG_HANDLER — War Dog Handler
-War dog handlers lead mastiff packs for patrols and debt-taking, hired where men are few. They raise pups on blood and whistle-commands. Villagers fear the dogs more than masters. Law holds masters liable for bites. In combat they send dogs first then strike with spear, fighting as pairs. If dogs fall they lose heart. Their leashes and whistles mark them.
-Combat: 4/1/4/3 (handler + dogs as one fighter). (Note: condensed sketch in chat; locked content identical.)
+War dog handlers lead mastiff packs for patrols and debt-taking where people are few. They raise pups using blood rewards and sharp whistle commands. Villagers fear the dogs more deeply than their masters. Local law holds the masters liable for every serious bite. In combat, they send dogs first, then strike behind them with spears. Handler and pack fight as a coordinated pair against opponents. If the dogs fall, their handlers quickly lose heart. Their leashes and whistles clearly mark them among ordinary travelers.
+Combat: 4/1/4/3 (handler + dogs as one fighter).
 Appearance: leashed mastiffs, spear, whistle-cord, hide apron. States: dogs-forward stance / spear-jab behind pack / dog-loss stagger / grounded with scattered leashes. Variants: 2M young kennel lad/scarred master; 2F hard huntress/older breeder.

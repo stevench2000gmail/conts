@@ -27,28 +27,28 @@ Combat: 6/1/2/4, always_physical.
 Appearance: Enormous bloated patriarch carries a wedding wreath and boat-crushing arms, belly mountainous, voice subsonic. Weed crowned. States: decree-bellowing ruling posture / multi-band crushing assault / pond-drained beached stagger / wreath-offering yielding surrender. Variants: 4M young husband / prime drowner / grey patriarch / old pond-king.
 
 ## 130. ENY_RUSALKA_RIVER — River Rusalka
-Pale river rusalkas comb long hair upon moonlit banks of slow lowland rivers. Their mournful bands drowned as betrayed brides in old stories. They tickle swimmers to death with cold fingers. Villagers leave flower wreaths at fords cautiously. They love circle dances. They fear church bells. In battle they entangle swimmers with hair-ropes, dragging them under silently. They release those who offer linen willingly.
-Combat: 4/1/5/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Pale river rusalkas comb endlessly long hair upon moonlit banks of slow lowland rivers. Their mournful bands drowned long ago as betrayed brides in old stories. They tickle strong swimmers to death with freezing fingers. Wary villagers leave flower wreaths at shallow fords cautiously. They love midnight circle dances. They fear consecrated church bells. In battle they entangle swimmers with living hair-ropes, dragging them under silently. They release captives who offer clean linen willingly.
+Combat: 4/1/5/2, always_physical.
 Appearance: Pale dripping maiden carries hair-ropes and a flower wreath, feet bare and muddy, eyes sorrowful and bright. Hair impossibly long. States: moonlit bank combing vigil / hair-rope entangling assault / bell-rung recoiling stagger / wreath-accepting releasing surrender. Variants: 4F young bride / scarred swimmer / grey dancer / old ford-mother.
 
 ## 131. ENY_RUSALKA_LAKE — Lake Rusalka
-Green-eyed lake rusalkas haunt reed-fringed lakes where drowned churches stand. Their silent bands guard sunken bells. They lure fishermen with familiar voices. Lake villages drain offerings of eggs. They collect lost crosses. They hate mill dams. In battle they capsize small boats with sudden rushes, pulling crews into weed beds. They avoid iron-keeled barges.
-Combat: 4/1/4/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Green-eyed lake rusalkas haunt reed-fringed lakes where drowned churches stand upright. Their silent bands guard sunken bronze bells jealously. They lure lonely fishermen with hauntingly familiar voices. Lakeside villages float offerings of painted eggs. They collect lost silver crosses. They hate grinding mill dams. In battle they capsize small boats with sudden concerted rushes, pulling crews into weed beds. They avoid iron-keeled barges completely.
+Combat: 4/1/4/2, always_physical.
 Appearance: Green-eyed maiden carries weed-chains and a drowned doll, skin lake-pale, voice echoing strangely. Reed crowned. States: reed-fringe floating vigil / boat-capsizing pulling assault / dam-blocked languishing stagger / egg-accepting releasing surrender. Variants: 4F young lure / scarred bell-keeper / grey echo / old lake-mother.
 
 ## 132. ENY_RUSALKA_MEADOW — Meadow Rusalka
-Rye-crowned meadow rusalkas dance through midsummer grain beyond river flats. Their laughing bands blight crops where feet touch. They tickle field workers breathless. Farmers bar windows during green week. They demand ribbon tolls. They fear thunder. In battle they whirl with sickle-blades among tall stalks, slashing hamstrings. They vanish at harvest.
-Combat: 3/1/5/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Rye-crowned meadow rusalkas dance lightly through midsummer grain beyond river flats. Their laughing bands blight standing crops wherever bare feet touch. They tickle exhausted field workers breathless at noon. Frightened farmers bar windows tightly during green week. They demand bright ribbon tolls at field edges. They fear crashing thunder greatly. In battle they whirl gracefully with curved sickle-blades among tall stalks, slashing exposed hamstrings. They vanish completely at harvest time.
+Combat: 3/1/5/2, always_physical.
 Appearance: Rye-crowned dancer carries twin sickle-blades and ribbon streamers, feet dusty, laughter high. Sun-browned shoulders. States: grain-field whirling dance / sickle hamstringing assault / thunder-scattered screaming stagger / ribbon-accepting dancing surrender. Variants: 4F young dancer / scarred reaper / grey singer / old meadow-mother.
 
 ## 133. ENY_RUSALKA_WINTER — Winter Rusalka
-Frost-pale winter rusalkas sleep beneath black ice until spring thaw cracks loudly. Their dreaming bands whisper through cracks. They envy the living. Ice fishers hear them knocking. They collect frozen flowers. They dread late thaws. In battle they lure skaters onto thin ice, breaking it beneath with poles. They cannot leave frozen water.
-Combat: 3/1/4/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Frost-pale winter rusalkas sleep soundly beneath black ice until spring thaw cracks loudly. Their dreaming bands whisper eerily through widening cracks. They envy the breathing living. Listening ice fishers hear them knocking nightly. They collect perfect frozen flowers. They dread sudden late thaws. In battle they lure careless skaters onto thin ice, breaking it beneath with poles. They cannot leave frozen water ever.
+Combat: 3/1/4/2, always_physical.
 Appearance: Frost-pale sleeper carries an ice-pole and frozen-flower chain, lips blue, movements sluggish and cold. Ice crystals in hair. States: under-ice whispering dormancy / ice-breaking luring assault / early-thaw melting stagger / flower-accepting sinking surrender. Variants: 4F young dreamer / scarred knocker / grey whisperer / old ice-mother.
 
 ## 134. ENY_RUSALKA_QUEEN — Rusalka Queen (band-level only)
-Willow-crowned queens command whole river systems with drowned wedding processions. Their solemn decrees close fords for weeks. Subordinate bands deliver flower tributes dutifully. They remember every betrayal. In battle they coordinate multi-band drownings with sung commands, shielding young behind reeds. Their sudden death frees rivers for years. Rival queens absorb leaderless bands.
-Combat: 4/1/5/5, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Willow-crowned queens command entire river systems with solemn drowned wedding processions. Their grave decrees close busy fords for many weeks. Subordinate bands deliver fresh flower tributes dutifully. They remember every betrayal forever. In battle they coordinate multi-band drownings with compelling sung commands, shielding young behind reeds. Their sudden death frees rivers for many years. Rival queens absorb leaderless bands quickly. A flower-full summer keeps fragile peace.
+Combat: 4/1/5/5, always_physical.
 Appearance: Willow-crowned imposing queen carries a wedding candle and drowned veil, presence sorrowful and commanding, larger than daughters. River pearls strung. States: procession-leading floating command / coordinated drowning sung assault / veil-torn wailing stagger / tribute-accepting yielding surrender. Variants: 4F young herald / prime queen / grey rememberer / old river-mother.
 
 ## 135. ENY_JOTNAR_FROST — Frost Jotunn
@@ -57,13 +57,13 @@ Combat: 8/1/2/3, always_physical.
 Appearance: Rime-bearded towering giant carries ice boulders and a walrus-hide cloak, breath freezing visibly, height triple human stature. Blue skin. States: snowfield-striding patrol stance / ice-boulder hurling assault / thaw-weakened sweating stagger / ivory-offering grudging surrender. Variants: 2M young strider / grey rimebeard; 2F hard icewife / older keeper.
 
 ## 136. ENY_JOTNAR_CLIFF — Cliff Jotunn
-Lichen-covered cliff jotnar perch upon sheer highland crags overlooking narrow passes. Their patient bands drop rocks on toll caravans. They understand echoes perfectly. They demand goat tolls. In battle they trigger rockslides with levers before throwing tors by hand. They never descend to valleys. Their crag nests hold eaglets as pets.
-Combat: 7/1/3/3, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Lichen-covered cliff jotnar perch patiently upon sheer highland crags overlooking narrow passes. Their watchful bands drop heavy rocks on slow toll caravans. They understand mountain echoes perfectly. They demand fat goat tolls. In battle they trigger roaring rockslides with iron levers before throwing tors by hand. They never descend willingly to valleys. Their lofty crag nests shelter stolen eaglets as pets. Wary climbers avoid their long shadows.
+Combat: 7/1/3/3, always_physical.
 Appearance: Lichen-covered sitter carries lever-poles and a tor-pile, skin grey-green, legs dangling over drops. Massive hands. States: crag-perch silent vigil / rockslide-triggering throwing assault / valley-lured clumsy stagger / toll-accepting rumbling surrender. Variants: 2M young dropper / grey watcher; 2F hard cragwife / older keeper.
 
 ## 137. ENY_JOTNAR_FORGE — Forge Jotunn
-Soot-blackened forge jotnar tend geothermal vents inside volcanic foothill caves. Their skilled bands hammer bog-iron into crude blades. They understand stone-melt. They trade blades for meat. In battle they swing white-hot ingots with tongs, scalding through armor. They fear quenching pools. Their slag heaps grow yearly.
-Combat: 7/1/2/3, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Soot-blackened forge jotnar tend roaring geothermal vents inside volcanic foothill caves. Their skilled bands hammer glowing bog-iron into crude blades. They understand molten stone-melt intuitively. They trade finished blades for fresh meat. In battle they swing white-hot ingots with giant tongs, scalding through steel armor. They fear sudden quenching pools greatly. Their towering slag heaps grow higher yearly. Jealous smiths spy on them constantly.
+Combat: 7/1/2/3, always_physical.
 Appearance: Soot-blackened smith giant carries white-hot ingots with massive tongs, apron of sewn hides, arms corded hugely. Heat shimmering. States: vent-tending hammering stance / ingot-swinging scalding assault / quenched hissing stagger / meat-accepting grunting surrender. Variants: 2M young hammer / sooty master; 2F hard smith / older keeper.
 
 ## 138. ENY_JOTNAR_SEER — Jotunn Seer (observation only, no true prophecy)

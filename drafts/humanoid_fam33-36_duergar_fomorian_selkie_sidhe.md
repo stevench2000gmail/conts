@@ -2,18 +2,18 @@
 Rule: city-free, every sentence 8+ words. Taxonomy Humanoid.
 
 ## 140. ENY_DUERGAR_GREY — Grey Duergar
-Ash-grey duergar bands work lightless quarry depths far below exile dwarves. Their sullen fighters wield mattocks against everything living. They remember imagined slights for decades. They enslave stray kobolds ruthlessly. In battle they fight silently in tight files with short spears, never routing while leaders stand. They poison wells spitefully. Their grey skin camouflages in ash.
-Combat: 5/1/3/4, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Ash-grey duergar bands toil endlessly in lightless quarry depths far below exile dwarves. Their sullen fighters wield heavy mattocks against everything living encountered. They remember imagined slights bitterly for many decades. They enslave stray kobolds ruthlessly without hesitation. In battle they fight silently in tight files with short spears, never routing while leaders stand firm. They poison village wells spitefully at night. Their grey skin camouflages perfectly in ash. Bright sunlight sickens them swiftly always.
+Combat: 5/1/3/4, always_physical.
 Appearance: Ash-grey low fighter carries a mattock-spear and slave-chain, eyes red-rimmed, beard sparse and lank. Sunken cheeks. States: lightless-file silent advance / spear-thrust holding assault / leader-fallen routing stagger / chain-offering sullen surrender. Variants: 2M young drudge / grey taskmaster; 2F hard driver / older keeper.
 
 ## 141. ENY_DUERGAR_TASKMASTER — Duergar Taskmaster (band-level only)
-Scar-lashed taskmasters drive mixed slave gangs with whip and tally. Their feared bands strip mines bare. They count lashes meticulously. They sell surplus slaves. In battle they flog allies forward while striking foes with weighted whips, inspiring terror. Their death frees gangs instantly. Rival taskmasters absorb survivors.
-Combat: 5/1/4/5, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Scar-lashed taskmasters drive shuffling mixed slave gangs with singing whips and tallies. Their feared bands strip productive mines completely bare within seasons. They count every lash meticulously in ledgers. They sell surplus slaves to deep buyers. In battle they flog reluctant allies forward while striking foes with weighted whips, inspiring cold terror. Their sudden death frees chained gangs instantly. Rival taskmasters absorb leaderless survivors quickly. A consistently full quota keeps uneasy peace.
+Combat: 5/1/4/5, always_physical.
 Appearance: Scar-lashed driver carries a weighted whip and tally-board, voice cracking like stone, bulk squat and menacing. Branded hands. States: lash-cracking driving command / whip-striking terrifying assault / tally-smashed bewildered stagger / whip-yielding bitter surrender. Variants: 2M young lasher / scarred master; 2F hard mistress / older counter.
 
 ## 142. ENY_FOMORIAN_BRUTE — Fomorian Brute
-Single-eyed brute fomorians wade ashore through crashing surf at bleak dawns. Their twisted frames combine human limbs with goat heads. They raid coastal hamlets for cattle. Fisherfolk bar doors at their bellows. They demand milk tribute. In battle they sweep with driftwood clubs, goring with mismatched horns. They retreat to sea when burned.
-Combat: 7/1/2/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Single-eyed brute fomorians wade ashore through crashing surf at bleak dawns. Their twisted frames combine human limbs with mismatched goat heads. They raid coastal hamlets for cattle before morning boats depart. Fisherfolk bar their doors whenever the giants begin bellowing. They demand milk tribute from frightened families near shore. Driftwood clubs sweep broadly while their horns gore opponents. Fire drives them backward through surf toward waiting water. They retreat seaward quickly when flames catch their salt-crusted hides.
+Combat: 7/1/2/2, always_physical.
 Appearance: Twisted goat-headed giant carries a driftwood club and tide-pool armor, single eye glaring, limbs mismatched and powerful. Salt-crusted. States: surf-wading bellowing advance / club-sweep goring assault / fire-driven seaward stagger / tribute-accepting snorting surrender. Variants: 2M young wader / scarred raider; 2F hard sea-wife / older keeper.
 
 ## 143. ENY_FOMORIAN_EYE — Fomorian Eye Tyrant (band-level only, no death-gaze as final)

@@ -7,8 +7,8 @@ Combat: 3/1/5/2, cycle (curse-then-strike, mundane).
 Appearance: Wart-skinned stooped elder carries an iron ladle and charm-bundles, nose hooked, one eye clouded. Ragged shawls smell of herbs. States: hovel-doorway glaring vigil / ladle-swinging cursing assault / grandchild-pulled weeping stagger / charm-offering trembling surrender. Variants: 4F old outcast / grey widow / blind beggar / toothless aunt (female-led outcasts, males absent with reason: cast-out widows).
 
 ## 122. ENY_HAG_MIRE — Mire Hag
-Bog-dwelling mire hags nest upon floating peat islands inside trackless fens. Their bloated fingers weave eel-traps from human hair. They lure travelers with false lantern lights nightly. Drained marsh crews fear their sucking pools. They collect drowned boots as trophies. They understand tides better than pilots. In battle they drag victims into black water with hooked poles, drowning silently. They release those who solve their riddles.
-Combat: 4/1/5/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Bog-dwelling mire hags nest upon floating peat islands inside trackless fens. Their bloated fingers weave eel-traps from human hair scavenged downstream. They lure travelers nightly with false lantern lights over water. Drained marsh crews fear the sucking pools surrounding each island. They collect drowned boots as trophies beside their dripping beds. They understand tides better than most experienced river pilots. Their hooked poles drag victims into black water during battle. They release prisoners who correctly solve their patient riddles.
+Combat: 4/1/5/2, always_physical.
 Appearance: Bloated peat-stained elder carries a hooked pole and lantern-cage, hair dripping, breath marsh-gas foul. Skin green-grey. States: peat-island floating vigil / pole-drag drowning assault / lantern-smashed shrieking stagger / riddle-answered releasing surrender. Variants: 4F young bog-wife / prime lure / grey weaver / old peat-mother.
 
 ## 123. ENY_LESHY_WARDEN — Leshy Warden (fixed)

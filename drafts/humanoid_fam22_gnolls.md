@@ -2,8 +2,8 @@
 Rule: city-free. Taxonomy Humanoid.
 
 ## 91. ENY_GNOLL_LAUGHER — Gnoll Laugher
-Spotted hyena-folk bands lope across dry scrub where carcasses draw them for miles. Their cackling calls unsettle night camps. They learned scavenging from watching vultures. Drovers dread their giggling approach. They collect cracked bones. They fear disciplined spear lines. In battle they circle laughing with serrated spears, breaking isolated victims. They flee fire.
-Combat: 4/1/3/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Spotted hyena-folk bands lope tirelessly across dry scrub where old carcasses draw them for miles. Their unsettling cackling calls disturb every night camp within earshot. They learned efficient scavenging from watching circling vultures patiently. Drovers dread their approaching giggles more than wolves. They collect cracked marrow bones obsessively. They fear disciplined spear lines greatly. In battle they circle laughing with serrated spears, breaking isolated victims swiftly. They flee crackling fire immediately.
+Combat: 4/1/3/2, always_physical.
 Appearance: spotted hyena-headed looter with serrated spear and bone necklace, loping gait, mane bristling, taller than humans when erect. Laughing jaws. States: circling cackle stalk / spear-rush laugh / fire-panic scatter stagger / belly-up whimper surrender. Variants: 2M young giggler / scarred laugher; 2F hard dam / older cackler.
 
 ## 92. ENY_GNOLL_BONEBREAKER — Gnoll Bonebreaker
@@ -12,8 +12,8 @@ Combat: 6/1/2/2, always_physical.
 Appearance: massive crusher with stone maul and marrow-bowl, jaws massive, shoulders humped. States: carcass-guard stance / maul-shatter smash / lion-driven stagger / marrow-offering surrender. Variants: 2M young crusher / scarred breaker; 2F hard crusher / older keeper.
 
 ## 93. ENY_GNOLL_HUNTER — Gnoll Hunter
-Lean hunter gnolls run down swift gazelles across shimmering open flats. Their disciplined bands coordinate exhausting relay pursuits for hours. They read shifting winds with lifted noses. In battle they exhaust foes with harassing javelin casts, never closing too early. They hamstring stragglers ruthlessly. Their legendary endurance outlasts cavalry horses. Sharp thorn fields lame them quickly.
-Combat: 4/1/4/2, always_physical. (Note: 7-sentence sketch in chat; locked content identical.)
+Lean hunter gnolls run down swift gazelles across shimmering open flats daily. Their disciplined bands coordinate exhausting relay pursuits for many hours. They read shifting winds accurately with lifted noses. In battle they exhaust foes with harassing javelin casts, never closing too early. They hamstring fallen stragglers ruthlessly without hesitation. Their legendary endurance outlasts cavalry horses easily. Sharp thorn fields lame them quickly every season. A lost scent ends hunts immediately.
+Combat: 4/1/4/2, always_physical.
 Appearance: lean runner with javelin-bundle and wind-veil, ribs showing, legs tireless. States: relay-trot stalk / harassing javelin rain / thorn-lamed stagger / scent-lost sitting surrender. Variants: 2M young runner / grey relator; 2F swift dam / older finder.
 
 ## 94. ENY_GNOLL_SPEAKER — Gnoll Speaker (no true magic, tricks only)

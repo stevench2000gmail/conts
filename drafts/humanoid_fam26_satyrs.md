@@ -2,17 +2,17 @@
 Rule: city-free. Taxonomy Humanoid.
 
 ## 111. ENY_SATYR_PIPER — Satyr Piper
-Wine-flushed pipers lead midnight dances in lowland groves beyond the last vineyards. Their reeling bands trample crops while chasing rumors that never appear. They learned reed-tunes from highland cousins but play them faster and drunker. Villagers lock daughters and wine alike. They trade dances for drink. They fear iron bells. In battle they caper with short swords, dodging rather than parrying. They rout when sober.
-Combat: 4/1/4/2, always_physical. (Note: condensed sketch in chat; locked content identical.)
+Wine-flushed pipers lead reeling midnight dances in moonlit lowland groves beyond the last vineyards. Their capering bands trample young crops while chasing alluring rumors that never materialize. They learned lilting reed-tunes from highland cousins but play them faster and far drunker. Worried villagers lock cellar doors and daughters alike at dusk. They trade lewd dances eagerly for strong drink. They fear consecrated iron bells above all weapons. In battle they caper dartingly with short leaf-blades, dodging nimbly rather than parrying solidly. They rout squealing the moment sober fear takes hold.
+Combat: 4/1/4/2, always_physical.
 Appearance: wine-flushed goat-legged piper with short sword and reed-pipes, wreath askew, capering gait. States: dance-circle caper / dodging sword-flourish / sober-clumsy stagger / pipe-offering surrender. Variants: 2M young dancer / grey piper; 2F hard dancer / older caller.
 
 ## 112. ENY_SATYR_RIPPER — Satyr Ripper
-Briar-horned ripper satyrs tear lowland vineyard trellises apart for drunken sport. Their rowdy bands raid orchards across entire valleys each autumn. They hate every fence and wall. In battle they gore with sharp horns before slashing with looted cleavers. They pursue fleeing victims far beyond sense. Their horns splinter against shields. Sharp pruning hooks deter them effectively.
+Briar-horned ripper satyrs tear lowland vineyard trellises apart for drunken sport. Their rowdy bands raid orchards across entire valleys each autumn. They hate every fence, wall, and locked gate. In battle they gore with sharp horns before slashing with looted cleavers. They pursue fleeing victims far beyond sense. Their horns splinter against iron shields. Sharp pruning hooks deter them effectively always.
 Combat: 5/1/2/3, always_physical.
 Appearance: briar-crowned ripper with looted cleaver and torn trellis-wood, horns sharp, eyes wild. States: trellis-tearing charge / gore-cleaver frenzy / horn-splintered stagger / trellis-offering surrender. Variants: 2M young tearer / scarred ripper; 2F hard ripper / older dam.
 
 ## 113. ENY_SATYR_SCOUT — Satyr Scout
-Fleet-footed scout satyrs range far ahead of lumbering raiding parties through dry scrub. Their curious bands map every patrol route and vineyard guard post. They love carrying gossip between groves. In battle they skirmish relentlessly with light javelins, never standing to trade blows. They report movements promptly. Their bounding speed outruns most dogs. Well-placed snares catch them regularly.
+Fleet-footed scout satyrs range far ahead of lumbering raiding parties through dry scrub. Their curious bands map every patrol route and vineyard guard post. They love carrying juicy gossip between distant groves. In battle they skirmish relentlessly with light javelins, never standing to trade blows. They report movements promptly to waiting ambushers. Their bounding speed outruns most hunting dogs. Well-placed snares catch them regularly at trails.
 Combat: 3/1/5/2, always_physical.
 Appearance: fleet scout with light javelins and gossip-scroll, legs springy, ears pricked. States: scrub-darting scout / skirmishing javelin rain / snared tumble stagger / scroll-offering surrender. Variants: 2M young runner / grey whisperer; 2F swift lass / older listener.
 
