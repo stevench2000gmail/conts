@@ -32,7 +32,7 @@ Added this turn: vodyanoy, rusalka female-only, jotnar, duergar as dark-dwarf al
 Moved OUT: vampires -> Fiend; gorgon -> Fiend; wendigo -> Fiend; tengu -> Demon candidate; half-breeds dropped.
 Open: Humanoid target count — user set 2026-09-22: high-count (4-5 entries each) = 27 families: 1-11, 13, 14, 18-27, 30-32, 43. Low-count (1-2 each) = remaining 24 families. Est ~120-135 high + ~24-48 low = ~145-180 Humanoids. Treemen (12) intentionally low-count.
 
-## Fiend pool — LOCKED 2026-09-23 v2 CLASSIC (planning only, no pitches; 72 families by source)
+## Fiend pool — PITCHING 2026-09-23 v3 CLASSIC+ (72 base + Tonberry F73 + Balrog F74 + Ringwraith F75 + Squig F76 + Snotling F77 = 77; 25/77 families approved saved: F01-F21 + F74-F75)
 Model 4/4/4/8/8/4/4/4/4/6/6/4/4/4/4 = 72. Classic iconic TYPE-names. Same-root merged, coincidence parenthesized. Beast #80 fixed: ammit-maws → hippo-pond brutes (mundane delta/wetland). Full list approved in chat 2026-09-23.
 
 ## Demon pool — LOCKED 2026-09-23 (108 unique, proper names; planning, no pitches)
