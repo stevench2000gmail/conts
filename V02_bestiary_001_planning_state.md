@@ -2,7 +2,7 @@
 
 ## Controlling request
 `studio/contentstudio/requests/CONTENT_V02_BESTIARY_001.md` (Phase 1 only: chat pitches, no JSON).
-Status: PLANNING — do NOT pitch full monsters until user says: `we conclude the full preview of all monsters planning`.
+Status: PHASE 1 PITCHING — preview concluded 2026-09-23 per user. Pitching Human first, batches.
 
 ## Approved ENY_* to carry (10)
 - Human: ENY_ROADSIDE_THUG, ENY_HIRED_BLADE
@@ -15,22 +15,11 @@ Status: PLANNING — do NOT pitch full monsters until user says: `we conclude th
 - Lawful soldiery allowed as fightable Human enemies (generic, faction-neutral, no new institutions; paladin holy-magic never final, flagged).
 - Flavour variants: 2 male / 2 female WHERE biologically applicable; fallback with reason otherwise (e.g. feral goblins = no females per WORLD_BIBLE; some Beasts/Fiends subtle or nonsensical).
 - Canon hard limits kept: existing terrains/cities only for habitat (6 terrains: volcanic_foothills, forested_lake, green_valley, high_plateau, wetland, river_delta; 6 cities; location views graveyard/deep_forest/cave presentation-only). No new named places/factions/institutions/magic rules. Mundane-first. Fiend/Demon origins + magic implications TBD/flagged. All monsters fight (reuse or 1-10 + always_physical/cycle).
+- PROSE RULE 2026-09-23 (user): no specific city proper nouns in bestiary sketches — use generic settlement terms (market town, river port, highland fort, timber town, ore town, wetland town) + generic terrain terms for relocatability. Phase 2 habitat IDs still terrain-only unless user approves otherwise.
+- NINJA RULE 2026-09-23 (user): Family 8 Japanese-style role-names. Shinobi male-only / Kunoichi female-only exception (reason: gendered roles). Genin young low-stats / Chunin older high-stats (visual age reflects rank). 5th = Teppo musketeer ninja (matchlock as physical, tech flagged mundane).
 
-## Human — target 60 entries, ~4-5 each across 13 families
-1. criminals
-2. gangsters
-3. thugs (reuse ENY_ROADSIDE_THUG here where fitting)
-4. rebels
-5. mercenaries
-6. hired swords (reuse ENY_HIRED_BLADE here where fitting)
-7. assassins (flagged: implies guild, generic only)
-8. ninjas (flagged: implies clan/culture, generic only)
-9. militia
-10. soldiers
-11. knights
-12. paladins (flagged: holy order + magic, fighters only, no final magic)
-13. royal guards (flagged: implies court, generic only)
-- Even split approx; no ENY IDs / prose / stats pitched yet.
+## Human — LOCKED 2026-09-23 at 65 entries (13x5, vs 60 target; user locked over-target)
+All pitched Phase 1 chat, no JSON. City-free prose rule kept. Reuses: THUG in thugs, BLADE in hired swords. Ninja exception: Shinobi M-only / Kunoichi F-only, Genin young / Chunin older, Teppo flagged firearm.
 
 ## Humanoid pool (planning only, no pitches)
 Core: gnomes, halflings, dwarves (flagged), goblins, hobgoblins, orcs, ogres, trolls, elves / dark elves / wood elves (flagged), treemen (generic for ents), ratfolk (generic for skaven), snakefolk (generic for naga), fish-maidens female-only, bird-maidens female-only, half-bird-half-fish maidens female-only, oni-horned brutes, kappa river imps, monkey-folk, fox-maidens female-only, rakshasa / yaksha / garuda / naga Indian-aligned set, kobolds (small scavengers, separate from lizardmen), gnolls (hyena-men), goat-horned wildmen, boar-headed brutes, lizard marsh stalkers (separate), faun/satyr raiders, harpy harriers, hag-like outcasts, leshy.
