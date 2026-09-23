@@ -38,8 +38,8 @@ Added this turn: vodyanoy, rusalka female-only, jotnar, duergar as dark-dwarf al
 Moved OUT: vampires -> Fiend; gorgon -> Fiend; wendigo -> Fiend; tengu -> Demon candidate; half-breeds dropped.
 Open: Humanoid target count — user set 2026-09-22: high-count (4-5 entries each) = 27 families: 1-11, 13, 14, 18-27, 30-32, 43. Low-count (1-2 each) = remaining 24 families. Est ~120-135 high + ~24-48 low = ~145-180 Humanoids. Treemen (12) intentionally low-count.
 
-## Fiend pool so far (moved, not pitched)
-vampires, gorgon, wendigo (+ corpse, bloom carried).
+## Fiend pool — LOCKED 2026-09-23 v2 CLASSIC (planning only, no pitches; 72 families by source)
+Model 4/4/4/8/8/4/4/4/4/6/6/4/4/4/4 = 72. Classic iconic TYPE-names. Same-root merged, coincidence parenthesized. Beast #80 fixed: ammit-maws → hippo-pond brutes (mundane delta/wetland). Full list approved in chat 2026-09-23.
 
 ## Demon pool so far (moved, not pitched)
 - Structure requested: 108 unique Demon types: 36 Fallen Host (fallen-angel visual register, origin/theology proposal-only) + 72 Solomonic demons.
@@ -65,6 +65,9 @@ Cross-check 2026-09-23 v3 vs all other classes (90 families saved):
 - Internal Beast: delta wyrms (Reptile river) vs lindworm drakes (Mythical highland) split by habitat/scale; river-crabs vs mud-lobsters split (shore vs burrow); web-spiders vs millipedes/centipedes split; canine chain split (wolves highland/forest, fen-hounds wetland, mastiffs cities, foxes volcanic, jackals delta); raptor chain split by terrain.
 
 ## Decisions 2026-09-23
+- OpenCode Demon fix VERIFIED 2026-09-23: CONTENT_V02_BESTIARY_001.md Line 16 + Line 77 Demon-only exception present, upload item 14 cosmology added, external prompt demon sentence present. WORLD_BIBLE:20 + DECISIONS:212 faction permission confirmed verbatim. `python3 tools/content_staging.py validate` = empty queue green. Commit 4dc83d4.
+- Fiend 72-family draft v1 SAVED (4/4/4/8/8/4/4/4/4/6/6/4/4/4/4), awaiting classic-name revision per user 2026-09-23 (user dislikes renamed epithets, wants classic/iconic names).
+- Fiend naming DECISION 2026-09-23: use classic iconic TYPE-names (common nouns: Vampire, Gorgon, Wendigo, Jiangshi, Draugr, Vetala, Yurei, Banshee...), no proper individuals (no Dracula/Talos-as-individual/Bael). Complies with generic/reusable rule; Demon-only proper-name exception unchanged. Conflict pinpoint list pitched in chat, fixes pending approval.
 - Order confirmed: refine Beast list next, then Fiend, then Demon. Human/Humanoid rough mapping done.
 - Humanoid model CONFIRMED: 27 high-count (4-5 each) + 24 low-count (1-2 each), ~145-180 total. Treemen (12) stays low-count.
 - Demon cosmology: 108 unique fallen angels, real in-setting. Reference `tmp/the_hundred_and_eight_bestiary_cosmology_v0.1.md` as study material / lost in-game lore only — not canon import. Open questions §16 stay open.
