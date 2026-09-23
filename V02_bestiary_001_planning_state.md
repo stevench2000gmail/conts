@@ -70,6 +70,7 @@ Cross-check 2026-09-23 v3 vs all other classes (90 families saved):
   (relative from conts: `../proj4/studio/contentstudio/requests/CONTENT_V02_BESTIARY_001.md`)
 - All files it references live under: `/mnt/c/Users/steve/opencode/proj4/` (relative: `../proj4/`)
 - On resume: re-read this state file + the controlling request above. Do NOT assume conts/ has canon files.
+- Save-state checkpoint 2026-09-23: Human 65 and Humanoid 46-family Phase 1 drafts are complete and physically saved in `drafts/`; all previously condensed entries are expanded. Last completed draft commit before this checkpoint: `7028d0b`. Next content work is Beast Phase 1 pitches, using the locked 90-family planning list after the controlling request is re-read.
 
 ## How to resume
 Say: `resume from where we left off` — I will re-read this file (+ CONTENT_V02_BESTIARY_001.md as controlling) and continue from pending topics.

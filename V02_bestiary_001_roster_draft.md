@@ -1,5 +1,5 @@
 # V02 Bestiary Roster Draft — Phase 1 backup (2026-09-23)
-Purpose: preserve planning/pitching progress for OpenCode Phase 2 JSON later. Full 8-10 sentence prose + appearance briefs live in chat history (conts). This file locks structure/IDs/rules so nothing is lost.
+Purpose: preserve planning/pitching progress for OpenCode Phase 2 JSON later. Full standalone prose and appearance briefs are saved family-by-family in `drafts/`. This file locks structure, IDs, and rules so nothing is lost.
 Prose rule: NO city proper nouns (generic settlements + generic terrains only, relocatable). Every sketch sentence 8+ words, no filler.
 
 ## HUMAN — LOCKED 65 (13x5, vs 60 target)
@@ -19,6 +19,7 @@ Prose rule: NO city proper nouns (generic settlements + generic terrains only, r
 All Human: always_physical except Poisoner/Kunoichi cycle (mundane tricks). Magic 1.
 
 ## HUMANOID — Phase 1 complete, 46 families (~170 entries)
+Full prose persistence complete: all former condensed sketches were expanded into standalone eight-sentence descriptions on 2026-09-23. Dark Elf is `ENY_ELF_DARK`; Wood Elf is `ENY_ELF_WOOD`.
 High (5 each): gnomes, halflings, dwarves*, goblins*(M-only, reuse FERAL_GOBLIN), hobgoblins, orcs (reuse FERAL_ORC), ogres (reuse OGRE), trolls, elves*, ratfolk, mermaids*(F-only, ex fish-maidens), sphinxes*(F-only, ex bird-maidens), monkey-folk, fox-maidens*(F-only), indian trio (Rakshasa/Yaksha/Garuda), kobolds, gnolls, aegipanes, boar-headed, lizard stalkers, satyrs, harpy harriers (F-led), vodyanoy (M-led), rusalka (F-only), jotnar, jackal-headed.
 Low (2 each): treemen (low by design), naga (ex snakefolk), sirens*(F-only, ex half-bird-half-fish), oni, kappa, duergar*, fomorian, selkie, sidhe*, minotaur, centaur, cyclops, lamia (F-leaning), div, scorpion-folk, falcon-headed, croc-folk, thunderbird folk.
 * flagged (culture/courts/magic never final; bands only, no settlements/leaders/factions).
