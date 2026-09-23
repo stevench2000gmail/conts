@@ -28,27 +28,27 @@ Appearance: Enormous bloated patriarch carries a wedding wreath and boat-crushin
 
 ## 130. ENY_RUSALKA_RIVER — River Rusalka
 Pale river rusalkas comb endlessly long hair upon moonlit banks of slow lowland rivers. Their mournful bands drowned long ago as betrayed brides in old stories. They tickle strong swimmers to death with freezing fingers. Wary villagers leave flower wreaths at shallow fords cautiously. They love midnight circle dances. They fear consecrated church bells. In battle they entangle swimmers with living hair-ropes, dragging them under silently. They release captives who offer clean linen willingly.
-Combat: 4/1/5/2, always_physical.
+Combat: 4/1/5/2, cycle (hair-rope lure-song behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: Pale dripping maiden carries hair-ropes and a flower wreath, feet bare and muddy, eyes sorrowful and bright. Hair impossibly long. States: moonlit bank combing vigil / hair-rope entangling assault / bell-rung recoiling stagger / wreath-accepting releasing surrender. Variants: 4F young bride / scarred swimmer / grey dancer / old ford-mother.
 
 ## 131. ENY_RUSALKA_LAKE — Lake Rusalka
 Green-eyed lake rusalkas haunt reed-fringed lakes where drowned churches stand upright. Their silent bands guard sunken bronze bells jealously. They lure lonely fishermen with hauntingly familiar voices. Lakeside villages float offerings of painted eggs. They collect lost silver crosses. They hate grinding mill dams. In battle they capsize small boats with sudden concerted rushes, pulling crews into weed beds. They avoid iron-keeled barges completely.
-Combat: 4/1/4/2, always_physical.
+Combat: 4/1/4/2, cycle (familiar-voice lure behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: Green-eyed maiden carries weed-chains and a drowned doll, skin lake-pale, voice echoing strangely. Reed crowned. States: reed-fringe floating vigil / boat-capsizing pulling assault / dam-blocked languishing stagger / egg-accepting releasing surrender. Variants: 4F young lure / scarred bell-keeper / grey echo / old lake-mother.
 
 ## 132. ENY_RUSALKA_MEADOW — Meadow Rusalka
 Rye-crowned meadow rusalkas dance lightly through midsummer grain beyond river flats. Their laughing bands blight standing crops wherever bare feet touch. They tickle exhausted field workers breathless at noon. Frightened farmers bar windows tightly during green week. They demand bright ribbon tolls at field edges. They fear crashing thunder greatly. In battle they whirl gracefully with curved sickle-blades among tall stalks, slashing exposed hamstrings. They vanish completely at harvest time.
-Combat: 3/1/5/2, always_physical.
+Combat: 3/1/5/2, cycle (dance-blight behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: Rye-crowned dancer carries twin sickle-blades and ribbon streamers, feet dusty, laughter high. Sun-browned shoulders. States: grain-field whirling dance / sickle hamstringing assault / thunder-scattered screaming stagger / ribbon-accepting dancing surrender. Variants: 4F young dancer / scarred reaper / grey singer / old meadow-mother.
 
 ## 133. ENY_RUSALKA_WINTER — Winter Rusalka
 Frost-pale winter rusalkas sleep soundly beneath black ice until spring thaw cracks loudly. Their dreaming bands whisper eerily through widening cracks. They envy the breathing living. Listening ice fishers hear them knocking nightly. They collect perfect frozen flowers. They dread sudden late thaws. In battle they lure careless skaters onto thin ice, breaking it beneath with poles. They cannot leave frozen water ever.
-Combat: 3/1/4/2, always_physical.
+Combat: 3/1/4/2, cycle (thin-ice lure behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: Frost-pale sleeper carries an ice-pole and frozen-flower chain, lips blue, movements sluggish and cold. Ice crystals in hair. States: under-ice whispering dormancy / ice-breaking luring assault / early-thaw melting stagger / flower-accepting sinking surrender. Variants: 4F young dreamer / scarred knocker / grey whisperer / old ice-mother.
 
 ## 134. ENY_RUSALKA_QUEEN — Rusalka Queen (band-level only)
 Willow-crowned queens command entire river systems with solemn drowned wedding processions. Their grave decrees close busy fords for many weeks. Subordinate bands deliver fresh flower tributes dutifully. They remember every betrayal forever. In battle they coordinate multi-band drownings with compelling sung commands, shielding young behind reeds. Their sudden death frees rivers for many years. Rival queens absorb leaderless bands quickly. A flower-full summer keeps fragile peace.
-Combat: 4/1/5/5, always_physical.
+Combat: 4/1/5/5, cycle (sung-command behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: Willow-crowned imposing queen carries a wedding candle and drowned veil, presence sorrowful and commanding, larger than daughters. River pearls strung. States: procession-leading floating command / coordinated drowning sung assault / veil-torn wailing stagger / tribute-accepting yielding surrender. Variants: 4F young herald / prime queen / grey rememberer / old river-mother.
 
 ## 135. ENY_JOTNAR_FROST — Frost Jotunn

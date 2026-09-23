@@ -3,12 +3,12 @@ Rule: city-free, every sentence 8+ words. Taxonomy Humanoid.
 
 ## 140. ENY_DUERGAR_GREY — Grey Duergar
 Ash-grey duergar bands toil endlessly in lightless quarry depths far below exile dwarves. Their sullen fighters wield heavy mattocks against everything living encountered. They remember imagined slights bitterly for many decades. They enslave stray kobolds ruthlessly without hesitation. In battle they fight silently in tight files with short spears, never routing while leaders stand firm. They poison village wells spitefully at night. Their grey skin camouflages perfectly in ash. Bright sunlight sickens them swiftly always.
-Combat: 5/1/3/4, always_physical.
+Combat: 5/2/3/4, cycle (rune-craft flagged proposal per magic doctrine; never final).
 Appearance: Ash-grey low fighter carries a mattock-spear and slave-chain, eyes red-rimmed, beard sparse and lank. Sunken cheeks. States: lightless-file silent advance / spear-thrust holding assault / leader-fallen routing stagger / chain-offering sullen surrender. Variants: 2M young drudge / grey taskmaster; 2F hard driver / older keeper.
 
 ## 141. ENY_DUERGAR_TASKMASTER — Duergar Taskmaster (band-level only)
 Scar-lashed taskmasters drive shuffling mixed slave gangs with singing whips and tallies. Their feared bands strip productive mines completely bare within seasons. They count every lash meticulously in ledgers. They sell surplus slaves to deep buyers. In battle they flog reluctant allies forward while striking foes with weighted whips, inspiring cold terror. Their sudden death frees chained gangs instantly. Rival taskmasters absorb leaderless survivors quickly. A consistently full quota keeps uneasy peace.
-Combat: 5/1/4/5, always_physical.
+Combat: 5/2/4/5, cycle (rune-craft flagged proposal per magic doctrine; never final).
 Appearance: Scar-lashed driver carries a weighted whip and tally-board, voice cracking like stone, bulk squat and menacing. Branded hands. States: lash-cracking driving command / whip-striking terrifying assault / tally-smashed bewildered stagger / whip-yielding bitter surrender. Variants: 2M young lasher / scarred master; 2F hard mistress / older counter.
 
 ## 142. ENY_FOMORIAN_BRUTE — Fomorian Brute
@@ -35,12 +35,12 @@ States: migration-following silent patrol / boat-ramming dagger assault / landlo
 
 ## 146. ENY_SIDHE_WANDERER — Sidhe Wanderer (fixed)
 Silver-tongued sidhe wanderers walk lonely twilight roads between ancient grassy mounds. Their luminous bands trade riddling news gladly for shallow cream bowls. They remember solemn oaths sworn long before successor kings ruled. Frightened villagers bar heavy doors tightly during their glowing processions. They adore haunting music far above cold silver. They fear cracked iron bells above all weapons. In battle they dazzle victims with polished mirrored shields before cutting with thin swords, vanishing into cold mists afterwards completely. They ransom captured travelers afterward in exchange for new songs.
-Combat: 4/1/5/3, always_physical.
+Combat: 4/4/5/3, cycle (court glamour flagged proposal per magic doctrine applicable-user; never final).
 Appearance: Luminous pale wanderer carries a polished mirrored shield and slender thin sword, beauty profoundly unsettling, movements impossibly graceful always. Long hair shines brightly like captured moonlight constantly.
 States: twilight-road procession vigil / dazzling sword-cutting assault / bell-rung scattering stagger / song-accepting bowing surrender. Variants: 2M pale rider / grey whisperer; 2F bright lady / older keeper.
 
 ## 147. ENY_SIDHE_MOUND — Sidhe Mound Keeper (band-level only, fixed)
 Moss-crowned mound keepers guard rounded green hill doors opening only on feast nights. Their solemn bands collect regular tolls of fresh milk and wild honey. They remember long-buried kings beneath every hill. They punish oath-breakers cruelly with eternally losing forest ways. In battle they mislead intruders with floating lantern lights before spearing from dark mounds, never pursuing beyond grassy hills. Their heavy doors grind shut exactly at dawn. Their golden honey stores attract hungry bears constantly. A deliberately drained mound kills them very slowly.
-Combat: 4/1/4/4, always_physical.
+Combat: 4/4/4/4, cycle (mound glamour flagged proposal per magic doctrine; never final).
 Appearance: Moss-crowned solemn keeper carries a tall lantern-pole and heavy hill-key, presence deeply ancient, eyes star-filled and distant. Heavy green cloak drags damply behind.
 States: hill-door guarding vigil / lantern-misleading spearing assault / dawn-caught blinking stagger / honey-accepting yielding surrender. Variants: 2M old doorkeeper / grey toller; 2F stern lady / older keeper.

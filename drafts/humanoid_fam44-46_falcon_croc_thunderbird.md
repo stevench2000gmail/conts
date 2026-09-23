@@ -23,10 +23,10 @@ Appearance: Massive scarred elder carries rolling bulk and barnacled armor, jaws
 
 ## 169. ENY_THUNDERBIRD_STORMCALLER — Thunderbird Stormcaller
 Broad-winged stormcaller folk ride towering thunderheads high above the highest plateaus. Their crackling bands faithfully follow wandering lightning strikes each storm. They read gathering static accurately in raised feathers. Worried herders watch their circling flight for storm warnings. In battle they dive screaming through driving rain with heavy stone axes, stunning victims with crackling screeches. They cannot sustain flight in completely calm air. Their lightning-split eyries smoke after every tempest.
-Combat: 6/1/4/3, always_physical.
+Combat: 6/1/4/3, cycle (storm-screech behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: Broad-winged crackling folk carries a stone axe and storm-glass charms, feathers standing with static, eyes bright. Thunder scented. States: thunderhead-riding circling patrol / screeching axe-diving assault / becalmed feather-drooping stagger / charm-offering crackling surrender. Variants: 2M young rider / scarred caller; 2F hard sister / older keeper.
 
 ## 170. ENY_THUNDERBIRD_ELDER — Thunderbird Elder (band-level only)
 White-crested elder thunderbirds command crowded storm colonies through powerful drum-wing beats. Their stern decrees ground inexperienced fledglings safely during violent gales. Subordinate bands obey rolling thunder-clap signals instantly. In battle they coordinate lightning-timed dives using booming guttural calls, shielding vulnerable young behind scarred veterans. Their sudden fall silences colonies mournfully. Rival elders absorb leaderless survivors quickly.
-Combat: 6/1/5/4, always_physical.
+Combat: 6/1/5/4, cycle (drum-wing behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: White-crested imposing elder carries storm-drums and a lightning-charm, wings enormous, voice thunderous. Crest bright. States: drum-wing commanding stance / lightning-timed diving assault / voice-cracked silent stagger / charm-yielding honorable surrender. Variants: 2M young herald / white-crested elder; 2F storm-mother / older keeper.

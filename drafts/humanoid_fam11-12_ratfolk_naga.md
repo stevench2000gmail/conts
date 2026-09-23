@@ -28,10 +28,10 @@ Appearance: enormous bloated mother with crushing paws and swollen belly, fillin
 
 ## 53. ENY_NAGA_CONSTRICTOR — Naga Constrictor (ex-snakefolk)
 Heavy-bodied constrictor bands coil in steaming marsh reeds beyond the last farm ditches. Their scaled torsos rise human-high above muscular tails that crush wild pigs. They learned ambush patience before successor roads existed. Fisherfolk trade smoked eels for safe passage through their waters. They worship no gods, only warm stones. In battle they grapple and squeeze lone victims, avoiding formed spear lines. They release dead prey slowly. Their shed skins mark territories.
-Combat: 5/1/3/2, always_physical.
+Combat: 5/1/3/2, cycle (coil-squeeze behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: human-torsoed constrictor with green-brown scales and crushing tail, rearing taller than humans, tongue flickering. Broad shoulders. States: reed-coil ambush / grapple-squeeze / spear-prodded release stagger / uncoiled gasping surrender. Variants: 2M young coil / scarred crusher; 2F brooding dam / older shedder.
 
 ## 54. ENY_NAGA_AMBUSHER — Naga Ambusher
 Smaller mottled ambushers haunt forest-floor litter where sun breaks in speckles. Their bands coordinate silent surrounds with tail-taps. They take deer and unwary travelers alike. Charcoal-burners dread their leaf-rustle. They collect warm stones. In battle they spring from cover with short spears, constricting stragglers. They abandon hunts against fire. Their nests hold clutch-eggs.
-Combat: 4/1/4/2, always_physical.
+Combat: 4/1/4/2, cycle (spring-grapple behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: mottled small constrictor with short spear and leaf-litter cloak, lower than humans when coiled, eyes amber. Quick tongue. States: litter-hidden coil / springing spear-grapple / fire-driven release stagger / coiled shielding eggs surrender. Variants: 2M young striker / grey waiter; 2F nesting dam / older hunter.
