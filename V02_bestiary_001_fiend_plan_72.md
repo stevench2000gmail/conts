@@ -8,7 +8,9 @@ F02 Grimoire Eater (book-mimic-thread small, distinct from JRPG Chest Mimic by h
 F03 Shadow Stalker (living shadow, unnatural)
 F04 Chaos Hound (three-mouthed hound, unnatural; distinct from Beast hounds/wargs animal)
 
-## F02 WHF-thread 4 (Warhammer Fantasy, not 40k)
+## F02 WHF-thread 4+2 EXPANDED 6 (user-approved 2026-09-23: add missing Squig species-proper + bracketed Snotling per naming rule 2/3 before Chinese resumes)
+F76 Squig (cave squig species-proper per naming rule 2; 0/1 collisions across 5/5 classes; no squig families anywhere)
+F77 Cave Snot (Snotling) (snotling species-proper bracketed per naming rule 3; goblin-root collision with Humanoid Goblins 1/1; generic head + bracketed proper)
 F05 Crypt Ghoul (kept; Persian Ghul replaced by Edimmu so no same-root clash)
 F06 Barrow Wight (kept; LotR wight merged here, single Wight family)
 F07 Cairn Wraith (kept; LotR wraith merged here, single Wraith family)
@@ -109,5 +111,5 @@ F71 Jackal Husk (anubis-shape husk-thread, non-divine; distinct from Humanoid ja
 F72 Scarab Swarm (grave beetle-thread, unnatural; distinct from Beast carrion beetles animal)
 
 ## Counts
-72+1+2 families (75 with Tonberry F73 + Balrog F74 + Ringwraith F75, all user-approved); entries TBD (~78-150 with 2-each lean). Carries placed: CORPSE F15 / BLOOM F14. Moved-ins placed: Gorgon F33 / Vampire F61 / Wendigo F65. FF proper names kept: Malboro Maw F14 (carry), Tonberry F73 (exception); all other FF-thread names generic (Mimic/Zombie/Slime/Knight/Wisp/Doll/Worm). LotR proper names avoided entirely (no Balrog/Ringwraith/Orc/Troll/Warg/Shelob; only generic Lurker/Shade/Horror/Serpent/Wight/Wraith used, single merged Wight + single merged Wraith).
+72+1+2+2 families (77 with Tonberry F73 + Balrog F74 + Ringwraith F75 + Squig F76 + Cave Snot (Snotling) F77, all user-approved); entries TBD (~82-154 with 2-each lean). Carries placed: CORPSE F15 / BLOOM F14. Moved-ins placed: Gorgon F33 / Vampire F61 / Wendigo F65. FF proper names kept: Malboro Maw F14 (carry), Tonberry F73 (exception); all other FF-thread names generic (Mimic/Zombie/Slime/Knight/Wisp/Doll/Worm). LotR proper names avoided entirely (no Balrog/Ringwraith/Orc/Troll/Warg/Shelob; only generic Lurker/Shade/Horror/Serpent/Wight/Wraith used, single merged Wight + single merged Wraith).
 (End of draft v1 — awaiting user trim/approval before Phase 1 pitches.)
