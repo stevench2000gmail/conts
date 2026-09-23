@@ -17,11 +17,16 @@ Status: PHASE 1 PITCHING — preview concluded 2026-09-23 per user. Pitching Hum
 - Canon hard limits kept: existing terrains/cities only for habitat (6 terrains: volcanic_foothills, forested_lake, green_valley, high_plateau, wetland, river_delta; 6 cities; location views graveyard/deep_forest/cave presentation-only). No new named places/factions/institutions/magic rules. Mundane-first. Fiend/Demon origins + magic implications TBD/flagged. All monsters fight (reuse or 1-10 + always_physical/cycle).
 - PROSE RULE 2026-09-23 (user): no specific city proper nouns in bestiary sketches — use generic settlement terms (market town, river port, highland fort, timber town, ore town, wetland town) + generic terrain terms for relocatability. Phase 2 habitat IDs still terrain-only unless user approves otherwise.
 - NINJA RULE 2026-09-23 (user): Family 8 Japanese-style role-names. Shinobi male-only / Kunoichi female-only exception (reason: gendered roles). Genin young low-stats / Chunin older high-stats (visual age reflects rank). 5th = Teppo musketeer ninja (matchlock as physical, tech flagged mundane).
+- NAGA MERGE 2026-09-23: Family 12 Snakefolk renamed Naga (ENY_NAGA_*). Indian set drops Naga → Rakshasa/Yaksha/Garuda trio only.
+- MERMAID MERGE 2026-09-23: Family 13 Fish-maidens renamed Mermaids (ENY_MERMAID_*).
+- AVIAN MERGE 2026-09-23: Family 14 Bird-maidens renamed Sphinxes (ENY_SPHINX_*, female-only; Beast sphinx-pards stay animal-only with folk-vs-animal note). Family 15 Half-bird-half-fish renamed Sirens (ENY_SIREN_*, female-only). Harpies stay family 27 raiders.
+- GOAT SPLIT 2026-09-23: Family 23 = Aegipanes (highland goat-folk herders), Family 26 = Satyrs (lowland raiders).
 
 ## Human — LOCKED 2026-09-23 at 65 entries (13x5, vs 60 target; user locked over-target)
 All pitched Phase 1 chat, no JSON. City-free prose rule kept. Reuses: THUG in thugs, BLADE in hired swords. Ninja exception: Shinobi M-only / Kunoichi F-only, Genin young / Chunin older, Teppo flagged firearm.
 
-## Humanoid pool (planning only, no pitches)
+## Humanoid Phase 1 pitching (in progress 2026-09-23, city-free, 8+ word sentences mandatory)
+Pitched through family 36 Sidhe (IDs ENY_* 1-147+). Classic renames locked: Naga, Mermaids, Sphinxes, Sirens, Aegipanes/Satyrs split. Goblins no-females; Mermaids/Sphinxes/Sirens/Harpies female-led with reasons; Shinobi/Kunoichi gender roles logged under Human.
 Core: gnomes, halflings, dwarves (flagged), goblins, hobgoblins, orcs, ogres, trolls, elves / dark elves / wood elves (flagged), treemen (generic for ents), ratfolk (generic for skaven), snakefolk (generic for naga), fish-maidens female-only, bird-maidens female-only, half-bird-half-fish maidens female-only, oni-horned brutes, kappa river imps, monkey-folk, fox-maidens female-only, rakshasa / yaksha / garuda / naga Indian-aligned set, kobolds (small scavengers, separate from lizardmen), gnolls (hyena-men), goat-horned wildmen, boar-headed brutes, lizard marsh stalkers (separate), faun/satyr raiders, harpy harriers, hag-like outcasts, leshy.
 Added this turn: vodyanoy, rusalka female-only, jotnar, duergar as dark-dwarf alias (flagged), fomorian, selkie, sidhe (flagged elf-adjacent), minotaur, centaur, cyclops, lamia female-leaning, div, scorpion-folk, jackal-headed dune stalkers, falcon-headed cliff watchers, croc-folk river brutes, thunderbird cliff folk.
 Moved OUT: vampires -> Fiend; gorgon -> Fiend; wendigo -> Fiend; tengu -> Demon candidate; half-breeds dropped.
