@@ -41,11 +41,8 @@ Open: Humanoid target count — user set 2026-09-22: high-count (4-5 entries eac
 ## Fiend pool — LOCKED 2026-09-23 v2 CLASSIC (planning only, no pitches; 72 families by source)
 Model 4/4/4/8/8/4/4/4/4/6/6/4/4/4/4 = 72. Classic iconic TYPE-names. Same-root merged, coincidence parenthesized. Beast #80 fixed: ammit-maws → hippo-pond brutes (mundane delta/wetland). Full list approved in chat 2026-09-23.
 
-## Demon pool so far (moved, not pitched)
-- Structure requested: 108 unique Demon types: 36 Fallen Host (fallen-angel visual register, origin/theology proposal-only) + 72 Solomonic demons.
-- Tengu candidate remains in Demon pool.
-- Demon art exception is now present in controlling request: 0 variants, 4 states, 1 full-body, 1 portrait = 6 images each (648 total for 108).
-- IMPORTANT RESUME REMINDER: ask OpenCode to resolve the remaining naming conflict in the controlling request. Lines 16 and 76 still require generic reusable names / no proper nouns, but user wants the 72 actual Solomonic demon names. Add a Demon-only naming exception permitting traditional individual names, while explicitly not importing real-world hierarchy, abilities, religious claims, or biographies as canon; all non-Demons retain generic reusable names.
+## Demon pool — LOCKED 2026-09-23 (108 unique, proper names; planning, no pitches)
+- 36 Fallen (4x9 Orders, 12 Month + 24 Hour) + 72 Goetic Bael→Andromalius (#37-108). Lucifer/Satan/Samael = three separate. Ishtar merged: #65 Astaroth (Ishtar), aliases Inanna/Astarte/Ashtart. Empty Dominion #16 → Sojobo Great Tengu (mountain rule, April). Chinese Hundun/Gonggong/Chiyou/Xingtian never lowered. Tengu resolved, no extra slot. §16 rest deferred.
 
 ## Beast — agreed 2026-09-22 (lean 1-2 per family, no pitches yet)
 Kept: all 6-terrain mundane families + mythical-but-mundane + east/south moon bear, giant cobra, peacock-raptor. Dropped: tiger-man-eater, kappa-turtle beast, temple monkey-troop, all supernatural-flagged.
