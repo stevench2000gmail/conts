@@ -18,7 +18,7 @@ Prose rule: NO city proper nouns (generic settlements + generic terrains only, r
 13 royal guards (generic-only): ENY_PALACE_SENTRY, ENY_ESCORT_LANCER, ENY_VAULT_WARDEN, ENY_HONOR_BLADE, ENY_NIGHT_WATCH_CAPTAIN
 All Human: always_physical except Poisoner/Kunoichi cycle (mundane tricks). Magic 1.
 
-## HUMANOID — Phase 1 complete, 46 families (~170 entries)
+## HUMANOID — LOCKED 2026-09-23, 46 families / 170 entries (#1-170, user-approved; Phase 2 JSON pending)
 Full prose persistence complete: all former condensed sketches were expanded into standalone eight-sentence descriptions on 2026-09-23. Dark Elf is `ENY_ELF_DARK`; Wood Elf is `ENY_ELF_WOOD`.
 High (5 each): gnomes, halflings, dwarves*, goblins*(M-only, reuse FERAL_GOBLIN), hobgoblins, orcs (reuse FERAL_ORC), ogres (reuse OGRE), trolls, elves*, ratfolk, mermaids*(F-only, ex fish-maidens), sphinxes*(F-only, ex bird-maidens), monkey-folk, fox-maidens*(F-only), indian trio (Rakshasa/Yaksha/Garuda), kobolds, gnolls, aegipanes, boar-headed, lizard stalkers, satyrs, harpy harriers (F-led), vodyanoy (M-led), rusalka (F-only), jotnar, jackal-headed.
 Low (2 each): treemen (low by design), naga (ex snakefolk), sirens*(F-only, ex half-bird-half-fish), oni, kappa, duergar*, fomorian, selkie, sidhe*, minotaur, centaur, cyclops, lamia (F-leaning), div, scorpion-folk, falcon-headed, croc-folk, thunderbird folk.
