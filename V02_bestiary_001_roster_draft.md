@@ -29,7 +29,7 @@ Beast folk-vs-animal notes kept: scorpions, crocs, boars, foxes, jackals, spider
 ## BEAST — LOCKED 2026-09-23, 90 families / 180 entries (#1-180 Beast, user-approved batch-by-batch; Phase 2 JSON pending)
 Inverts 15 / Reptiles 10 / Birds 15 / Mammals 20 / Mythical-but-mundane 30. Carry WOLF/SPIDER/GRIFFIN. Moon bear, cobra, peacock-raptor kept.
 
-## FIEND — LOCKED 2026-09-23, 77 families / 154 entries (user-approved batch-by-batch; Phase 2 JSON pending)
+## FIEND — 78 families / 156 entries (77 locked 2026-09-23 + F78 Succubi female-only 155-156 added 2026-09-24; Phase 2 JSON pending)
 Frieren/Mimic→JRPG, WHF, LotR + Lake-lurker (Watcher), JRPG (Malboro=BLOOM, Zombie=CORPSE), Chinese, Norse, Greek (Gorgon), J/C (Watcher), Persian (Edimmu replaces Ghul), Indian, Japanese, Celtic, Slavic (Vampire), NativeAm (Wendigo), Egyptian (Ammit). Same-root merged; coincidence parenthesized.
 
 ## DEMON — LOCKED 2026-09-23, 108/108 (Fallen 36 per THIRTY_SIX_FALLEN_NINE_ORDERS_V04.md lore + Goetic 72 Bael→Andromalius with #65 Astaroth-Ishtar merged; gender-age presentations; 0 variants; Phase 2 JSON pending)
