@@ -23,7 +23,7 @@ Appearance: Ostentatious gilded armor blinds even in dimness strikingly, hollow 
 
 ## 35. ENY_LANTERN_GHOST — Pale Lantern Ghost
 Pale lantern ghosts bob above marsh paths where travelers lose causeways after sunset mists rise. Lights recede when approached reportedly always at dusk, luring followers deeper into sucking mud. After pole guides planted lanthorn posts with fixed flames uphill steadily, their luring success declined along marked routes. Guides light posts at dusk hourly now reliably, anchoring travelers against wandering lights for safety. Ordinary marsh children recite post counts aloud dutifully on errands to resist lights. In battle they dart around heads confusingly, disorienting before leading into bog pools fatally. Fixed lights and humming lines prevent dartings effectively in occupied marshes always. Dawn and drained paths dissolve haunts daily, though black pools preserve lights through seasons.
-Combat: 3/4/4/1, cycle (lead-astray flagged proposal, never final).
+Combat: 3/1/4/1, cycle (lead-astray behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: Sickly pale flame floats head-high lonely without fuel visibly, bobbing to lure. Recede when chased, dart to confuse, marsh exhaling cold around approaches. States: path-bobbing lure vigil / darting disorienting lead-astray assault / post-hummed foiled stagger / dawn-drained dissolved defeat. Variants (flame-forms, sexless, reason: ghosts lack bodies or sexes): marsh path bobber / mist-luring wandering light / post-counted route keeper / dawn-dissolved flame remnant.
 
 ## 36. ENY_BLUE_WISP — Blue Corpse Wisp
