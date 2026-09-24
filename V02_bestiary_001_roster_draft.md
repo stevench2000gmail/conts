@@ -1,6 +1,7 @@
 # V02 Bestiary Roster Draft — Phase 1 backup (2026-09-23)
 Purpose: preserve planning/pitching progress for OpenCode Phase 2 JSON later. Full standalone prose and appearance briefs are saved family-by-family in `drafts/`. This file locks structure, IDs, and rules so nothing is lost.
 Prose rule: NO city proper nouns (generic settlements + generic terrains only, relocatable). Every sketch sentence 8+ words, no filler.
+Additions 2026-09-24: Beast Y31 Lung dragons benevolent 181-182 (Qiu 2-horn + Jiao 1-horn); Beast Ember 163-164 alias Fenghuang; Fiend Sentinels 1-2 alias Golem; Fiend F78 Succubi 155-156; Fiend F79-F80 Elementals 159-162. Fiend 157-158 skipped (rejected Fiend dragons, moved to Beast).
 
 ## HUMAN — LOCKED 65 (13x5, vs 60 target)
 1 criminals: ENY_CUTPURSE, ENY_BURGLAR, ENY_SMUGGLER, ENY_COUNTERFEITER, ENY_FENCE
