@@ -13,7 +13,7 @@ Appearance: Ragged grey headless rider slouches horsed shabbily, hair-whips coil
 
 ## 127. ENY_BOG_HUSK — Brown Bog Husk
 Brown bog husks press through cut peat where black water hides drowned tools from finders yearly. Nooses of root fiber tighten reportedly around ankles at dusk, dragging porters into hags. After cutting bosses issued cleated boots to crews uphill sturdily, their noose drags declined near shod gangs. Bosses re-cleat soles after floods monthly now doggedly, maintaining grips that resist pulls for workers. Ordinary peat cutters work in roped pairs steadily at noon while singing to calm green fears. In battle they noose then press directly with peat weight, smothering before stripping with rootlets. Roped cleats and sung pairs prevent nooses effectively in occupied cuttings always. Drains and milled peat thin haunts seasonally, though deep bogs preserve husks through droughts.
-Combat: 5/2/3/3, always_physical (peat-press mundane horror, origins TBD flagged).
+Combat: 5/1/3/3, always_physical (peat-press mundane horror, origins TBD flagged).
 Appearance: Peat-brown mummified presser stands moss-bearded eerily, noose rootlets trailing from palms. Press smothering with weight, strip with rootlets fine, bog exhaling cold around bulk. States: cut-pressing noose vigil / noosing pressing smother assault / rope-cleat foiled stagger / drain-milled fallen defeat. Variants (bog-forms as former drowned, reason: husks retain cutting ranks): cut-peat presser / root-noosing drag keeper / cleat-soled gang watcher / pair-sung shift haunter.
 
 ## 128. ENY_BLACK_BOG — Black Pit Bog
