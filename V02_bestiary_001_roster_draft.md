@@ -1,5 +1,6 @@
-# V02 Bestiary Roster Draft — Phase 1 backup (2026-09-23)
+# V02 Bestiary Roster — Phase 1 approved (2026-09-24)
 Purpose: preserve planning/pitching progress for OpenCode Phase 2 JSON later. Full standalone prose and appearance briefs are saved family-by-family in `drafts/`. This file locks structure, IDs, and rules so nothing is lost.
+Final human approval: complete 691-entry Phase 1 roster approved 2026-09-24. Phase 2 JSON waits only for OpenCode's deferred `bestiary_entry` staging schema and validator implementation.
 Prose rule: NO city proper nouns (generic settlements + generic terrains only, relocatable). Every sketch sentence 8+ words, no filler.
 Additions 2026-09-24: Beast Y31 Lung dragons benevolent 181-182 (Qiu 2-horn + Jiao 1-horn); Beast Ember 163-164 alias Fenghuang; Fiend Sentinels 1-2 alias Golem; Fiend F78 Succubi 155-156; Fiend F79-F80 Elementals 159-162. Fiend 157-158 skipped (rejected Fiend dragons, moved to Beast).
 Power scaling 2026-09-24: Phase 2 only uses optional `combat.size: "boss"`; normal is omitted. Bosses locked: all 108 Demons; ENY_SUN_DRAGON, ENY_RED_DRAGON, ENY_WIND_DRAGON, ENY_ELVEN_DRAGON; ENY_ELDER_BALROG, ENY_BALROG, ENY_HYDRA_HUSK, ENY_CORPSE_WHALE, ENY_JIAO_LONG, ENY_SEA_WYRM, ENY_DEEP_LAKE_KING, ENY_BLACK_LAKE_KING, ENY_WARG_STALKER; ENY_LAKE_LURKER, ENY_BLACK_MONSOON, ENY_BLACK_EDIMMU, ENY_DELTA_WYRM. Total bosses: 125. Full 691-entry human-review bundle: `../proj4/tmp/BESTIARY_001.md`.

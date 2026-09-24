@@ -2,7 +2,7 @@
 
 ## Controlling request
 `studio/contentstudio/requests/CONTENT_V02_BESTIARY_001.md` (Phase 1 only: chat pitches, no JSON).
-Status: PHASE 1 PITCHING — preview concluded 2026-09-23 per user. Pitching Human first, batches.
+Status: PHASE 1 APPROVED 2026-09-24 — complete 691-entry roster approved by user. Phase 2 JSON remains blocked until OpenCode implements the deferred `bestiary_entry` staging schema and validator requested by user.
 
 ## Approved ENY_* to carry (10)
 - Human: ENY_ROADSIDE_THUG, ENY_HIRED_BLADE
@@ -83,7 +83,7 @@ Cross-check 2026-09-23 v3 vs all other classes (90 families saved):
 - MAGIC DOCTRINE 2026-09-23 (user; governs power-scaling pass): Human/Humanoid — magic users allowed ONLY where applicable (paladin, priest, shamanism, elves, mystical beings), mostly are not; revisit all pitched magic-1s to assign. Beasts — no magic EXCEPT mythical 30 families, and then behavior-only (breath, stare, etc.), NEVER cast (magic stays 1; cycle policy telegraphs + flagged behavior-magic note). Fiends — generally no magic; few exceptions follow the mythical-beast line (intuitive magical action, NEVER cast). Demons — use magic prominently (cast AND behavior; pitched 2-9 flagged stand as-is).
 
 ## Workspace memory (saved 2026-09-23 — persist across chats)
-- SAVE-STATE 2026-09-24: complete Phase 1 review bundle is `../proj4/tmp/BESTIARY_001.md`, verified at 691 numbered entries and assembled from `V02_bestiary_001_roster_draft.md` plus every tracked `drafts/*.md` family file. It is the review source for final human Phase 1 approval; `../proj4/tmp/V02_bestiary_001_roster_draft.md` is only an old compact planning backup and must not be used for exact coverage. Current locked total: Human 65 + Humanoid 170 + Beast 182 + Fiend 166 + Demon 108 = 691. Boss total: 125 (108 mandatory Demons + 17 approved Beast/Fiend bosses); all other non-Demons normal. Next: obtain final human approval of `BESTIARY_001.md`, then request OpenCode implementation of the deferred `bestiary_entry` staging schema and validator. Do not emit Phase 2 JSON beforehand.
+- SAVE-STATE 2026-09-24: complete Phase 1 review bundle is `../proj4/tmp/BESTIARY_001.md`, verified at 691 numbered entries and assembled from `V02_bestiary_001_roster_draft.md` plus every tracked `drafts/*.md` family file. `BESTIARY_001.md` received final human approval 2026-09-24; `../proj4/tmp/V02_bestiary_001_roster_draft.md` is only an old compact planning backup and must not be used for exact coverage. Current locked total: Human 65 + Humanoid 170 + Beast 182 + Fiend 166 + Demon 108 = 691. Boss total: 125 (108 mandatory Demons + 17 approved Beast/Fiend bosses); all other non-Demons normal. User has asked OpenCode to implement the deferred `bestiary_entry` staging schema and validator. Next: await its exact implementation/validation report, then author and validate Phase 2 JSON; do not emit JSON until that implementation lands.
 - Controlling request: `/mnt/c/Users/steve/opencode/proj4/studio/contentstudio/requests/CONTENT_V02_BESTIARY_001.md`
   (relative from conts: `../proj4/studio/contentstudio/requests/CONTENT_V02_BESTIARY_001.md`)
 - All files it references live under: `/mnt/c/Users/steve/opencode/proj4/` (relative: `../proj4/`)
