@@ -8,7 +8,7 @@ Appearance: Gaunt red three-mouthed hound stands mastiff-tall powerfully, necks 
 
 ## 8. ENY_BLACK_CHAOS_HOUND — Black Warp Hound
 Sable warp hounds haunt siege tunnels where sappers listen for countermines through pressed ears nightly. Drool eats through boot leather steadily with sizzling patches, marking trails that betray patrols. After sappers lined galleries with lime wash thickly uphill, their creeping packs avoided treated walls. Crews renew wash monthly with bitter vows now, cursing itches that accompany every application. Ordinary tunnel folk dread triple breathing in darkness more than collapses, for collapses end quickly. In battle they drool across thresholds deliberately, weakening doors before bursting through with triple bites. Raised stone sills and lime buckets prevent breaches effectively in occupied tunnels always. Cave-ins and starvation thin packs locally, though deep galleries preserve breeders through sieges.
-Combat: 7/3/2/2, cycle (warp-drool flagged proposal, never final).
+Combat: 7/1/2/2, cycle (warp-drool behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: Bulky sable warp beast oozes constantly, drool pitting stone beneath triple chins. Tread silent despite bulk, breathing triple-phased wheezing, warp ridges cresting spines like fins. States: tunnel-haunting drool-trail patrol / drooling bursting triple-bite assault / lime-silled foiled stagger / cave-in crushed defeat. Variants (warp-forms, reason: warp hounds lack readable sexes): sable pup drooler / siege tunnel creeper / lime-shy gallery lurker / sill-blocked threshold keeper.
 
 ## 9. ENY_CRYPT_GHOUL — Grey Crypt Ghoul
