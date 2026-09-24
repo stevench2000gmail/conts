@@ -8,7 +8,7 @@ Appearance: Barrel-bodied temple guardian crouches lion-pawed and hollow-eyed st
 
 ## 66. ENY_RED_LION_HUSK — Red Gate Lion
 Ruddier gate lions haunt kiln yards where potters fire roof tiles through smoky autumn weeks. Breath shimmers with kiln heat reportedly for hours after feedings, wilting garlands hung nearby. After kiln masters banked fires with ash nightly carefully, their shimmering breaths cooled near tended yards. Masters leave cooling shelves open at edges kindly now, sharing warmth that slows hunting prowls. Ordinary tile haulers whistle past lions briskly at dusk while balancing stacks against gusts. In battle they exhale shimmering heat directly onto faces, blistering before pouncing with stone weight. Wet cloths and sidelong approaches prevent exhales effectively in occupied yards always. Rains and cold snaps thin prowls seasonally, though hot kilns preserve hunters through winters.
-Combat: 6/3/2/2, cycle (cinder-breath flagged proposal, never final; no true fire).
+Combat: 6/1/2/2, cycle (cinder-breath behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: Brick-red kiln guardian glows faintly after firings eerily, mane smoke-stained darker than grey cousins. Exhale shimmering visibly, pounce crushing tiles, garlands wilting in presence. States: yard-haunting heat shimmer / exhaling blistering pounce assault / cloth-sidelong foiled stagger / rain-chilled fallen defeat. Variants (kiln-forms, reason: red lions keep yard ranks): kiln-yard haunter / shimmer-breathing tile crusher / garland-wilting prowler / ash-banked fire keeper.
 
 ## 67. ENY_DRAUGR — Grey Mound Draugr

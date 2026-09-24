@@ -8,7 +8,7 @@ Appearance: Harsh bronze bird gleams metallic and razor-edged strikingly, feathe
 
 ## 78. ENY_IRON_BIRD — Iron Marsh Bird
 Duller iron birds stalk reed marshes where black water mirrors skies before evening mists rise. They spear frogs with needle beaks silently at dusk, stacking catches on thorns like shrikes for dawn. After reed wardens burned old nests with torches yearly carefully, their stalking grounds shifted to outer fens. Wardens torch perches before nesting hourly now in spring, denying platforms that anchor broods for season. Ordinary frog giggers compete warily with birds nightly for catches while guarding lanterns from swoops. In battle they dart at eyes swiftly with beaks, blinding before raking with iron pinions. Goggled masks and raised shields prevent darts effectively in occupied marshes always. Beast herons dispute catches daily as mundane animals, though deep fens preserve broods through winters.
-Combat: 4/2/4/2, always_physical (swamp-ambush mundane horror, origins TBD flagged). Note fiend vs animal.
+Combat: 4/1/4/2, always_physical (swamp-ambush mundane horror, origins TBD flagged). Note fiend vs animal.
 Appearance: Mottled iron-grey stalker appears almost natural until beaks flash metallicly strikingly, pinions edged razor-fine. Dart silent toward eyes, rake with pinions, nest stacked with frog skewers. States: marsh-stalking spear vigil / darting blinding rake assault / mask-shielded foiled stagger / torch-burned fallen defeat. Variants (iron-forms, reason: iron birds keep marsh ranks): iron marsh stalker / reed-perch spearer / torch-denied nest keeper / skewer-stacked frog hoarder.
 
 ## 79. ENY_HYDRA_HUSK — Five-Headed Hydra Husk
