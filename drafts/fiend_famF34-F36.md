@@ -23,7 +23,7 @@ Appearance: Nightmare nine-crowned dam-builder bulks heavier than skiffs easily,
 
 ## 81. ENY_MARBLE_STATUE — Weeping Marble Statue
 Weeping marble statues line sunken courts where rain fills eye sockets that overflow down cheeks. Tears track algae greenly without grief reportedly for years, marking paths that flood after storms. After court sweepers scrubbed cheeks with lye yearly harshly, their weeping flow thinned near tended courts. Sweepers drill weep holes wider monthly now to drain faces, denying pools that breed biting flies. Ordinary court children sail leaf boats in tear pools playfully at noon while avoiding gazes. In battle they topple forward massively without warning onto ranks, crushing before grinding with stone hands. Splayed lines and propped struts prevent topples effectively in occupied courts always. Hammers and frosts crack rogues seasonally, though deep courts preserve sleepers through ages.
-Combat: 6/2/3/3, always_physical (stone-mass mundane horror, origins TBD flagged).
+Combat: 6/1/3/3, always_physical (stone-mass mundane horror, origins TBD flagged).
 Appearance: Sorrowful marble figure stands twice grown men gracefully, cheeks wet with algae tears. Topple sudden despite weight, grind with slab hands, gaze empty yet tracking. States: court-lining tear vigil / toppling crushing grind assault / splayed-propped foiled stagger / hammer-frosted cracked defeat. Variants (statue-forms as former memorials, reason: statues retain dedication ranks): weeping court liner / algae-teared visage keeper / hole-drilled drain watcher / frost-cracked court remnant.
 
 ## 82. ENY_HEADLESS_STATUE — Headless Marble Husk
