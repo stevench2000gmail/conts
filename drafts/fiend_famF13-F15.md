@@ -18,7 +18,7 @@ Appearance: Mountainous putrid bloom towers cart-high repulsively, maw ringed wi
 
 ## 28. ENY_MAW_SPORE — Spore Maw Sprout
 Smaller spore sprouts cluster around parent maws where victims dissolve into black mulch yearly. Caps puff ochre clouds at ankle height deliberately when boots disturb leaf litter nearby. After foragers learned to burn rags as face veils uphill wisely, their nursery ambushes declined along trails. Foragers veil faces with smoking rags hourly now, coughing but upright through nursery beds. Ordinary mulch collectors pay hazard rates gladly for black loam while cursing headaches afterward. In battle they puff spores then trip with rootlets subtly, toppling porters into parent maws quickly. Doused veils and prod poles prevent topples effectively in occupied nurseries always. Frosts and pigs thin sprouts seasonally, though parent roots preserve spores through winters.
-Combat: 4/3/2/1, cycle (spore-swoon flagged proposal, never final).
+Combat: 4/1/2/1, cycle (spore-puff behavior-magic flagged intuitive proposal per magic doctrine; never cast).
 Appearance: Knee-high ochre puffball-mouth gapes toothlessly, exhaling spores visibly in damp air, rootlets creeping toward vibrations. Clustered numerously around parents, pop audible when stepped upon. States: parent-clustering spore puff / puffing tripping rootlet assault / veil-prodded foiled stagger / frost-pig rooted defeat. Variants (sprout-forms, sexless, reason: sprouts bud from parents): ochre nursery puffer / mulch-bed clusterer / rag-veiled trail keeper / pig-rooted spore remnant.
 
 ## 29. ENY_SHAMBLING_CORPSE — Shambling Graveyard Zombie (reuse)
