@@ -100,3 +100,4 @@ All pending items resolved: Tengu placement (Demon), OpenCode `bestiary_entry` s
 - Completed CONTENT_V02_DAMINA_001 in proj4: Phase 1 pitches approved, Phase 2 bundle STG_V02_DAMINA_001 written to content_staging/submissions/V02_damina_001.json and staging validation passed.
 - Completed CONTENT_V02_BREVRA_001 Phase 1 in proj4: file tmp/CONTENT_V02_BREVRA_001_phase1.md approved with one fix (closing quote on scene final line), then Phase 2 bundle STG_V02_BREVRA_001 written to content_staging/submissions/V02_brevra_001.json and staging validation passed.
 - Both proj4 submission files remain uncommitted there; tmp phase1 file is gitignored and lives only in the working tree.
+- Extended 2026-10-01: completed CONTENT_V02_CADREN_001 in proj4 (Phase 1 file tmp/CONTENT_V02_CADREN_001_phase1.md approved, Phase 2 bundle STG_V02_CADREN_001 written to content_staging/submissions/V02_cadren_001.json, staging validation passed).
