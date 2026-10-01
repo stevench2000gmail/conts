@@ -94,3 +94,9 @@ Cross-check 2026-09-23 v3 vs all other classes (90 families saved):
 
 ## How to resume
 All pending items resolved: Tengu placement (Demon), OpenCode `bestiary_entry` staging schema + validator (implemented), famous-fiend coverage + power scaling (complete). Phase 1 complete at 691 entries, Phase 2 JSON validated. No open action items.
+
+## Session note 2026-10-01 (ContentStudio single-recruits in proj4 — no bestiary changes)
+- This session performed no bestiary work and changed no locked roster entries, drafts, decisions, or progress counters.
+- Completed CONTENT_V02_DAMINA_001 in proj4: Phase 1 pitches approved, Phase 2 bundle STG_V02_DAMINA_001 written to content_staging/submissions/V02_damina_001.json and staging validation passed.
+- Completed CONTENT_V02_BREVRA_001 Phase 1 in proj4: file tmp/CONTENT_V02_BREVRA_001_phase1.md approved with one fix (closing quote on scene final line), then Phase 2 bundle STG_V02_BREVRA_001 written to content_staging/submissions/V02_brevra_001.json and staging validation passed.
+- Both proj4 submission files remain uncommitted there; tmp phase1 file is gitignored and lives only in the working tree.
